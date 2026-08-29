@@ -1,6 +1,6 @@
 # Produção científica do PPGE/UFSCar
 
-Portal estático para apresentar métricas e artigos de periódicos dos docentes do PPGE/UFSCar. A arquitetura prevê integração de ORCID e OpenAlex, validação do gênero documental e deduplicação por identificadores persistentes.
+Portal estático para apresentar métricas e artigos de periódicos dos docentes do PPGE/UFSCar. A base reúne 74 ORCID institucionais e uma coleta ORCID–OpenAlex validada por identificadores persistentes.
 
 Desenvolvido por **Gerlan Silva da Silva**, doutorando em Educação pela UFSCar.  
 ORCID: https://orcid.org/0000-0002-9996-9983
@@ -19,9 +19,15 @@ ORCID: https://orcid.org/0000-0002-9996-9983
 
 5. Salve. O Cloudflare fornecerá um endereço terminado em `.pages.dev`.
 
-## Atualizações
+## Primeira atualização no GitHub
 
-Qualquer alteração enviada ao ramo principal do GitHub dispara uma nova implantação. Os dados validados deverão ser gravados em `public/data/`.
+1. Envie todos os arquivos deste pacote para o ramo principal do repositório.
+2. Abra a aba **Actions** do GitHub.
+3. Escolha **Atualizar publicações**.
+4. Clique em **Run workflow**.
+5. A rotina consulta os 74 ORCID, valida os DOI na OpenAlex, atualiza os arquivos de `public/data/` e cria um commit automaticamente.
+
+Ela também é executada toda segunda-feira. Cada commit de dados dispara uma nova implantação no Cloudflare.
 
 ## Desenvolvimento local
 
@@ -32,4 +38,4 @@ npm run dev
 
 ## Critério do corpus
 
-Entram somente artigos de periódicos com fonte editorial identificada e autoria vinculada por identificadores persistentes. Livros, capítulos, e-books, anais e repositórios são excluídos, mesmo quando classificados como `article` na origem.
+Entram somente trabalhos registrados no ORCID como `journal-article`, com DOI e confirmação na OpenAlex como `article` de uma fonte do tipo `journal`. Livros, capítulos, e-books, anais e repositórios são excluídos.

@@ -1,0 +1,117 @@
+{
+  "atualizadoEm": "2026-08-29T22:42:45.350Z",
+  "totalDocentes": 74,
+  "totalArtigos": 976,
+  "totalPeriodicos": 332,
+  "artigosCoautoria": 894,
+  "porAno": [
+    {
+      "ano": 2002,
+      "total": 2
+    },
+    {
+      "ano": 2003,
+      "total": 1
+    },
+    {
+      "ano": 2005,
+      "total": 2
+    },
+    {
+      "ano": 2006,
+      "total": 6
+    },
+    {
+      "ano": 2007,
+      "total": 3
+    },
+    {
+      "ano": 2008,
+      "total": 7
+    },
+    {
+      "ano": 2009,
+      "total": 9
+    },
+    {
+      "ano": 2010,
+      "total": 8
+    },
+    {
+      "ano": 2011,
+      "total": 11
+    },
+    {
+      "ano": 2012,
+      "total": 24
+    },
+    {
+      "ano": 2013,
+      "total": 14
+    },
+    {
+      "ano": 2014,
+      "total": 18
+    },
+    {
+      "ano": 2015,
+      "total": 21
+    },
+    {
+      "ano": 2016,
+      "total": 34
+    },
+    {
+      "ano": 2017,
+      "total": 35
+    },
+    {
+      "ano": 2018,
+      "total": 42
+    },
+    {
+      "ano": 2019,
+      "total": 65
+    },
+    {
+      "ano": 2020,
+      "total": 100
+    },
+    {
+      "ano": 2021,
+      "total": 118
+    },
+    {
+      "ano": 2022,
+      "total": 113
+    },
+    {
+      "ano": 2023,
+      "total": 102
+    },
+    {
+      "ano": 2024,
+      "total": 123
+    },
+    {
+      "ano": 2025,
+      "total": 84
+    },
+    {
+      "ano": 2026,
+      "total": 34
+    }
+  ],
+  "porLinha": {
+    "EPFH": 157,
+    "ECS": 140,
+    "FPOAE": 186,
+    "EETPC": 114,
+    "HFSE": 226,
+    "ECM": 69,
+    "RED": 38,
+    "PSPE": 62
+  },
+  "registrosOrcidComDoi": 1003,
+  "avisos": []
+}
