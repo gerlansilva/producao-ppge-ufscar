@@ -22,6 +22,7 @@ for(const [index,docente] of docentes.entries()){
  process.stdout.write(`[ORCID ${index+1}/${docentes.length}] ${docente.nome}\n`);
  try{
   const record=await getJson(`https://pub.orcid.org/v3.0/${docente.orcid}/works`,{Accept:"application/json"});
+  let claimed=0;
   for(const group of record.group||[]){
    const summaries=group["work-summary"]||[];
    const journal=summaries.find(w=>w.type==="journal-article");
@@ -33,6 +34,21 @@ for(const [index,docente] of docentes.entries()){
    if(!current.docentes.some(d=>d.orcid===docente.orcid))current.docentes.push({nome:docente.nome,orcid:docente.orcid,linha:docente.linha});
    if(!current.linhas.includes(docente.linha))current.linhas.push(docente.linha);
    claims.set(doi,current);
+   claimed++;
+  }
+  // Exceção curada: alguns ORCID identificam corretamente o perfil OpenAlex,
+  // mas não expõem nenhuma obra pública. Nesses casos, um Author ID revisado
+  // manualmente pode fornecer os DOI, mantendo os mesmos filtros documentais.
+  if(claimed===0&&docente.openalex){
+   const page=await getJson(`https://api.openalex.org/works?filter=authorships.author.id:${docente.openalex}&per-page=200&mailto=${encodeURIComponent(mail)}`);
+   for(const work of page.results||[]){
+    const source=work.primary_location?.source,doi=normalizeDoi(work.doi||work.ids?.doi);
+    if(!doi||work.type!=="article"||!source?.id||source.type!=="journal")continue;
+    const current=claims.get(doi)||{doi,docentes:[],linhas:[]};
+    if(!current.docentes.some(d=>d.orcid===docente.orcid))current.docentes.push({nome:docente.nome,orcid:docente.orcid,linha:docente.linha});
+    if(!current.linhas.includes(docente.linha))current.linhas.push(docente.linha);
+    claims.set(doi,current);
+   }
   }
  }catch(e){warnings.push(`${docente.nome}: falha no ORCID (${e.message})`)}
  await sleep(80);
