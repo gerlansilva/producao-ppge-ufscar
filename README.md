@@ -38,4 +38,4 @@ npm run dev
 
 ## Critério do corpus
 
-Entram somente trabalhos registrados no ORCID como `journal-article`, com DOI e confirmação na OpenAlex como `article` de uma fonte do tipo `journal`. Livros, capítulos, e-books, anais e repositórios são excluídos.
+Na rota principal, entram trabalhos registrados no ORCID como `journal-article`, com DOI e confirmação na OpenAlex como `article` de uma fonte do tipo `journal`. Quando a lista pública do ORCID está vazia, admite-se um OpenAlex Author ID revisado manualmente; os mesmos filtros de DOI, tipo e fonte continuam obrigatórios. Livros, capítulos, e-books, anais e repositórios são excluídos.
