@@ -35,5 +35,4 @@ jobs:
             exit 0
           fi
           git commit -m "Atualiza publicações do PPGE"
-          git pull --rebase origin "$GITHUB_REF_NAME"
           git push origin "HEAD:$GITHUB_REF_NAME"
