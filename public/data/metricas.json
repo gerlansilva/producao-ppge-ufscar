@@ -1,141 +1,143 @@
 {
-  "atualizadoEm": "2026-08-30T00:32:47.355Z",
+  "atualizadoEm": "2026-08-30T03:43:39.068Z",
   "totalDocentes": 74,
-  "totalArtigos": 1261,
-  "totalPeriodicos": 404,
-  "artigosCoautoria": 1120,
+  "totalArtigos": 2130,
+  "totalPeriodicos": 563,
+  "artigosCoautoria": 1826,
   "porAno": [
     {
-      "ano": 1969,
-      "total": 2
-    },
-    {
-      "ano": 1970,
+      "ano": 1990,
       "total": 1
     },
     {
       "ano": 1993,
-      "total": 1
+      "total": 2
+    },
+    {
+      "ano": 1999,
+      "total": 2
     },
     {
       "ano": 2000,
-      "total": 1
+      "total": 2
     },
     {
       "ano": 2001,
-      "total": 2
+      "total": 7
     },
     {
       "ano": 2002,
-      "total": 2
+      "total": 5
     },
     {
       "ano": 2003,
-      "total": 4
-    },
-    {
-      "ano": 2004,
-      "total": 1
-    },
-    {
-      "ano": 2005,
-      "total": 7
-    },
-    {
-      "ano": 2006,
-      "total": 7
-    },
-    {
-      "ano": 2007,
       "total": 9
     },
     {
+      "ano": 2004,
+      "total": 5
+    },
+    {
+      "ano": 2005,
+      "total": 12
+    },
+    {
+      "ano": 2006,
+      "total": 9
+    },
+    {
+      "ano": 2007,
+      "total": 18
+    },
+    {
       "ano": 2008,
-      "total": 20
+      "total": 36
     },
     {
       "ano": 2009,
-      "total": 16
+      "total": 32
     },
     {
       "ano": 2010,
-      "total": 15
+      "total": 45
     },
     {
       "ano": 2011,
-      "total": 17
+      "total": 49
     },
     {
       "ano": 2012,
-      "total": 34
+      "total": 75
     },
     {
       "ano": 2013,
-      "total": 25
+      "total": 78
     },
     {
       "ano": 2014,
-      "total": 33
+      "total": 79
     },
     {
       "ano": 2015,
-      "total": 31
+      "total": 94
     },
     {
       "ano": 2016,
-      "total": 48
+      "total": 120
     },
     {
       "ano": 2017,
-      "total": 57
+      "total": 139
     },
     {
       "ano": 2018,
-      "total": 63
+      "total": 138
     },
     {
       "ano": 2019,
-      "total": 90
+      "total": 161
     },
     {
       "ano": 2020,
-      "total": 124
+      "total": 194
     },
     {
       "ano": 2021,
-      "total": 134
+      "total": 162
     },
     {
       "ano": 2022,
-      "total": 123
+      "total": 145
     },
     {
       "ano": 2023,
-      "total": 123
+      "total": 159
     },
     {
       "ano": 2024,
-      "total": 136
+      "total": 188
     },
     {
       "ano": 2025,
-      "total": 92
+      "total": 119
     },
     {
       "ano": 2026,
-      "total": 43
+      "total": 45
     }
   ],
   "porLinha": {
-    "EPFH": 203,
-    "ECS": 191,
-    "FPOAE": 186,
-    "EETPC": 210,
-    "HFSE": 268,
-    "ECM": 121,
-    "RED": 38,
-    "PSPE": 67
+    "HFSE": 442,
+    "FPOAE": 302,
+    "EPFH": 361,
+    "EETPC": 297,
+    "PSPE": 136,
+    "ECM": 205,
+    "RED": 116,
+    "ECS": 334
   },
-  "registrosOrcidComDoi": 1288,
-  "avisos": []
+  "perfisOpenAlex": 73,
+  "avisos": [
+    "Michele Varotto Machado: perfil OpenAlex não localizado; usada a lista pública do ORCID."
+  ]
 }
