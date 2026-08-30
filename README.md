@@ -38,4 +38,4 @@ npm run dev
 
 ## Critério do corpus
 
-Na rota principal, entram trabalhos registrados no ORCID como `journal-article`, com DOI e confirmação na OpenAlex como `article` de uma fonte do tipo `journal`. Quando a lista pública do ORCID está vazia, admite-se um OpenAlex Author ID revisado manualmente; os mesmos filtros de DOI, tipo e fonte continuam obrigatórios. Livros, capítulos, e-books, anais e repositórios são excluídos.
+O ORCID é usado para resolver de forma persistente o perfil de autoria na OpenAlex. A produção é então coletada pelo OpenAlex Author ID completo. Entram apenas registros com DOI, tipo `article`, fonte identificada e fonte do tipo `journal`. Registros anteriores a 1980 são separados como anomalias potenciais de perfis agregados. Livros, capítulos, e-books, anais e repositórios são excluídos.
