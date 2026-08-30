@@ -57,7 +57,8 @@ for(const work of openalex){
  artigos.push({
   openalexId:work.id,doi,titulo:work.title||work.display_name||"Sem título",ano:work.publication_year||null,dataPublicacao:work.publication_date||null,
   periodico:source.display_name,sourceId:source.id,issn:source.issn_l||source.issn?.[0]||null,url:`https://doi.org/${doi}`,citacoes:work.cited_by_count||0,
-  autores:(work.authorships||[]).map(a=>a.author?.display_name).filter(Boolean),docentes:claim.docentes,linhas:claim.linhas
+  autores:(work.authorships||[]).map(a=>a.author?.display_name).filter(Boolean),docentes:claim.docentes,linhas:claim.linhas,
+  topicos:(work.topics||[]).slice(0,3).map(t=>t.display_name).filter(Boolean)
  });
 }
 artigos.sort((a,b)=>(b.ano||0)-(a.ano||0)||a.titulo.localeCompare(b.titulo,"pt-BR"));
