@@ -11,26 +11,29 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 22
-
-      - name: Consultar ORCID e OpenAlex
+          node-version: 24
+      - name: Consultar OpenAlex e gerar os dados
         env:
           OPENALEX_MAILTO: gerlanmatfis@gmail.com
         run: node scripts/collect-publications.mjs
-
       - name: Validar o projeto
         run: npm ci && npm run build
-
       - name: Salvar dados atualizados
         run: |
           git config user.name "ppge-data-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/artigos.json public/data/artigos.csv public/data/metricas.json
-          git diff --cached --quiet || git commit -m "Atualiza publicações do PPGE"
-          git push
+          if [ -f public/data/cobertura.json ]; then
+            git add public/data/cobertura.json
+          fi
+          if git diff --cached --quiet; then
+            echo "Os dados já estão atualizados."
+            exit 0
+          fi
+          git commit -m "Atualiza publicações do PPGE"
+          git pull --rebase origin "$GITHUB_REF_NAME"
+          git push origin "HEAD:$GITHUB_REF_NAME"
