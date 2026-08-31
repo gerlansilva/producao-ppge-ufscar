@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-08-30T15:00:06.291Z",
+  "atualizadoEm": "2026-08-31T14:02:25.071Z",
   "totalDocentes": 74,
-  "totalArtigos": 2130,
+  "totalArtigos": 2131,
   "totalPeriodicos": 563,
-  "artigosCoautoria": 1826,
+  "artigosCoautoria": 1827,
   "porAno": [
     {
       "ano": 1990,
@@ -107,7 +107,7 @@
     },
     {
       "ano": 2022,
-      "total": 145
+      "total": 146
     },
     {
       "ano": 2023,
@@ -133,7 +133,7 @@
     "EETPC": 297,
     "PSPE": 136,
     "ECM": 205,
-    "RED": 116,
+    "RED": 117,
     "ECS": 334
   },
   "perfisOpenAlex": 73,

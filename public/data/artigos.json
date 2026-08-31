@@ -21190,6 +21190,40 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W4280574149",
+    "doi": "10.34112/2317-0972a2022v40n84p9-12",
+    "titulo": "Seres, coisas e desimportâncias: pra inventar de novo a vida que é função principal da poesia",
+    "ano": 2022,
+    "dataPublicacao": "2022-05-13",
+    "periodico": "Leitura Teoria & Prática",
+    "sourceId": "https://openalex.org/S4210186676",
+    "issn": "0102-387X",
+    "url": "https://doi.org/10.34112/2317-0972a2022v40n84p9-12",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Alan Victor Pimenta de Almeida Pales Costa",
+      "Alda Regina Tognini Romaguera",
+      "Carolina Laureto Hora",
+      "Marcus Pereira Novaes"
+    ],
+    "docentes": [
+      {
+        "nome": "Alan Victor Pimenta de Almeida Pales Costa",
+        "orcid": "0000-0001-8715-4229",
+        "linha": "RED"
+      }
+    ],
+    "linhas": [
+      "RED"
+    ],
+    "topicos": [
+      "Linguistics and Education Research",
+      "Psychology and Mental Health",
+      "Social and Political Issues"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W4288065337",
     "doi": "10.1590/2526-8910.ctoen234531002",
     "titulo": "Social occupational therapy, anti-oppression and freedom: considerations about the revolution of/in everyday life",
@@ -41048,7 +41082,7 @@
     "sourceId": "https://openalex.org/S2738869887",
     "issn": "1678-1007",
     "url": "https://doi.org/10.1590/1981-7746-sol00111",
-    "citacoes": 10,
+    "citacoes": 11,
     "acessoAberto": "aberto",
     "autores": [
       "Thiago Loureiro",
@@ -66132,7 +66166,7 @@
     "sourceId": "https://openalex.org/S4210208850",
     "issn": "0103-7307",
     "url": "https://doi.org/10.1590/s0103-73072009000300012",
-    "citacoes": 16,
+    "citacoes": 17,
     "acessoAberto": "aberto",
     "autores": [
       "Anete Abramowicz",
