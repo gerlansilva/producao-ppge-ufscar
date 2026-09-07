@@ -19,7 +19,7 @@
     "nome": "Carmen Lucia Brancaglion Passos",
     "orcid": "0000-0002-5501-3584",
     "openalex": "A5029003437",
-    "encontradosOpenAlex": 101,
+    "encontradosOpenAlex": 102,
     "validos": 48,
     "anterioresA1980": 0
   },
@@ -148,7 +148,7 @@
     "orcid": "0000-0003-0664-6796",
     "openalex": "A5021345183",
     "encontradosOpenAlex": 73,
-    "validos": 51,
+    "validos": 50,
     "anterioresA1980": 0
   },
   {
@@ -188,15 +188,15 @@
     "orcid": "0000-0002-6850-2897",
     "openalex": "A5086031475",
     "encontradosOpenAlex": 119,
-    "validos": 81,
+    "validos": 79,
     "anterioresA1980": 3
   },
   {
     "nome": "Braian Garrito Veloso",
     "orcid": "0000-0002-9459-5740",
     "openalex": "A5010469313",
-    "encontradosOpenAlex": 64,
-    "validos": 33,
+    "encontradosOpenAlex": 66,
+    "validos": 36,
     "anterioresA1980": 0
   },
   {
@@ -204,7 +204,7 @@
     "orcid": "0000-0002-8336-3645",
     "openalex": "A5057460551",
     "encontradosOpenAlex": 173,
-    "validos": 74,
+    "validos": 75,
     "anterioresA1980": 0
   },
   {
@@ -282,7 +282,7 @@
     "nome": "Elenice Maria Cammarosano Onofre",
     "orcid": "0000-0002-3623-4728",
     "openalex": "A5036565774",
-    "encontradosOpenAlex": 71,
+    "encontradosOpenAlex": 72,
     "validos": 43,
     "anterioresA1980": 3
   },
@@ -306,15 +306,15 @@
     "nome": "Joelson Gonçalves de Carvalho",
     "orcid": "0000-0003-4894-1400",
     "openalex": "A5000406902",
-    "encontradosOpenAlex": 46,
-    "validos": 17,
+    "encontradosOpenAlex": 47,
+    "validos": 19,
     "anterioresA1980": 0
   },
   {
     "nome": "Jose Carlos Rothen",
     "orcid": "0000-0002-5360-1913",
     "openalex": "A5062649079",
-    "encontradosOpenAlex": 102,
+    "encontradosOpenAlex": 103,
     "validos": 59,
     "anterioresA1980": 0
   },
@@ -395,7 +395,7 @@
     "orcid": "0000-0003-1694-851X",
     "openalex": "A5003035401",
     "encontradosOpenAlex": 171,
-    "validos": 132,
+    "validos": 134,
     "anterioresA1980": 0
   },
   {
@@ -435,7 +435,7 @@
     "orcid": "0000-0002-0143-5167",
     "openalex": "A5003638197",
     "encontradosOpenAlex": 117,
-    "validos": 72,
+    "validos": 71,
     "anterioresA1980": 1
   },
   {
@@ -474,7 +474,7 @@
     "nome": "Roseli Esquerdo Lopes",
     "orcid": "0000-0001-9572-4586",
     "openalex": "A5019222652",
-    "encontradosOpenAlex": 206,
+    "encontradosOpenAlex": 207,
     "validos": 137,
     "anterioresA1980": 2
   },
@@ -530,7 +530,7 @@
     "nome": "Osmar Moreira de Souza Junior",
     "orcid": "0000-0002-2915-5634",
     "openalex": "A5048252331",
-    "encontradosOpenAlex": 20,
+    "encontradosOpenAlex": 21,
     "validos": 16,
     "anterioresA1980": 0
   },
@@ -539,14 +539,14 @@
     "orcid": "0000-0001-8715-4229",
     "openalex": "A5087809696",
     "encontradosOpenAlex": 28,
-    "validos": 13,
+    "validos": 12,
     "anterioresA1980": 0
   },
   {
     "nome": "Ana Cristina Juvenal da Cruz",
     "orcid": "0000-0002-8401-376X",
     "openalex": "A5036202758",
-    "encontradosOpenAlex": 29,
+    "encontradosOpenAlex": 30,
     "validos": 20,
     "anterioresA1980": 0
   },

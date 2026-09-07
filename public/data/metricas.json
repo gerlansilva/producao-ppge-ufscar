@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-08-31T14:02:25.071Z",
+  "atualizadoEm": "2026-09-07T12:43:46.683Z",
   "totalDocentes": 74,
-  "totalArtigos": 2131,
-  "totalPeriodicos": 563,
-  "artigosCoautoria": 1827,
+  "totalArtigos": 2134,
+  "totalPeriodicos": 566,
+  "artigosCoautoria": 1831,
   "porAno": [
     {
       "ano": 1990,
@@ -31,7 +31,7 @@
     },
     {
       "ano": 2003,
-      "total": 9
+      "total": 8
     },
     {
       "ano": 2004,
@@ -75,7 +75,7 @@
     },
     {
       "ano": 2014,
-      "total": 79
+      "total": 78
     },
     {
       "ano": 2015,
@@ -99,42 +99,42 @@
     },
     {
       "ano": 2020,
-      "total": 194
+      "total": 193
     },
     {
       "ano": 2021,
-      "total": 162
+      "total": 164
     },
     {
       "ano": 2022,
-      "total": 146
+      "total": 145
     },
     {
       "ano": 2023,
-      "total": 159
+      "total": 160
     },
     {
       "ano": 2024,
-      "total": 188
+      "total": 187
     },
     {
       "ano": 2025,
-      "total": 119
+      "total": 121
     },
     {
       "ano": 2026,
-      "total": 45
+      "total": 48
     }
   ],
   "porLinha": {
-    "HFSE": 442,
-    "FPOAE": 302,
-    "EPFH": 361,
-    "EETPC": 297,
+    "HFSE": 441,
+    "FPOAE": 304,
+    "EPFH": 363,
+    "EETPC": 296,
     "PSPE": 136,
     "ECM": 205,
-    "RED": 117,
-    "ECS": 334
+    "ECS": 335,
+    "RED": 116
   },
   "perfisOpenAlex": 73,
   "avisos": [

@@ -381,6 +381,39 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7207691154",
+    "doi": "10.55028/1wz42h92",
+    "titulo": "Desistência e permanência escolar no Ensino Médio: um retrato do campo científico",
+    "ano": 2026,
+    "dataPublicacao": "2026-09-03",
+    "periodico": "Perspectivas em Diálogo revista de educação e sociedade",
+    "sourceId": "https://openalex.org/S2737922099",
+    "issn": "2358-1840",
+    "url": "https://doi.org/10.55028/1wz42h92",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Bruna Carolina Silva dos Reis",
+      "́Patrícia Leme de Oliveira Borba",
+      "Roseli Esquerdo Lopes"
+    ],
+    "docentes": [
+      {
+        "nome": "Roseli Esquerdo Lopes",
+        "orcid": "0000-0001-9572-4586",
+        "linha": "HFSE"
+      }
+    ],
+    "linhas": [
+      "HFSE"
+    ],
+    "topicos": [
+      "Evasion and Academic Success Factors",
+      "Rural and Ethnic Education",
+      "Education Pedagogy and Practices"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W7147189872",
     "doi": "10.18800/educacion.202601.a012",
     "titulo": "Educação personalizada no ensino superior: uma revisão internacional no ERIC",
@@ -508,6 +541,39 @@
       "Rural and Ethnic Education",
       "Rural Development and Agriculture",
       "Agriculture, Land Use, Rural Development"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7204947579",
+    "doi": "10.5433/1984-7939.2026.v11.54764",
+    "titulo": "Entre liberdade e controle: tecnologia, educação e subjetividades no diálogo entre Loveluck e Morozov",
+    "ano": 2026,
+    "dataPublicacao": "2026-08-18",
+    "periodico": "Educação em Análise",
+    "sourceId": "https://openalex.org/S4210209643",
+    "issn": "2448-0320",
+    "url": "https://doi.org/10.5433/1984-7939.2026.v11.54764",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Daniella Gualberto Neves",
+      "Wilker Rodrigues de Almeida",
+      "Braian Veloso"
+    ],
+    "docentes": [
+      {
+        "nome": "Braian Garrito Veloso",
+        "orcid": "0000-0002-9459-5740",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Philosophical and Theoretical Analysis",
+      "Education and Digital Technologies",
+      "Contemporary Social and Educational Issues"
     ]
   },
   {
@@ -1471,6 +1537,38 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7204782505",
+    "doi": "10.67215/otraeconomia.1480",
+    "titulo": "Territórios de convergência",
+    "ano": 2026,
+    "dataPublicacao": "2026-06-27",
+    "periodico": "Otra Economía",
+    "sourceId": "https://openalex.org/S4306521833",
+    "issn": "1851-4715",
+    "url": "https://doi.org/10.67215/otraeconomia.1480",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Joelson Gonçalves de Carvalho",
+      "Ana Lúcia Cortegoso"
+    ],
+    "docentes": [
+      {
+        "nome": "Joelson Gonçalves de Carvalho",
+        "orcid": "0000-0003-4894-1400",
+        "linha": "EPFH"
+      }
+    ],
+    "linhas": [
+      "EPFH"
+    ],
+    "topicos": [
+      "Social and Economic Solidarity",
+      "Social Sciences and Governance",
+      "Rural Development and Agriculture"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W7117977845",
     "doi": "10.21527/2179-1309.2026.123.16098",
     "titulo": "Tertúlias literárias dialógicas na visão de professoras e familiares de crianças da educação infantil",
@@ -1807,7 +1905,7 @@
     "sourceId": "https://openalex.org/S4210189389",
     "issn": "2526-7647",
     "url": "https://doi.org/10.14393/obv9.e2025-20",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Elisiane Spencer Quevedo Goethel",
@@ -2243,6 +2341,45 @@
       "Environmental Sustainability and Education",
       "Rural and Ethnic Education",
       "Science and Science Education"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W4410846566",
+    "doi": "10.5585/54.2025.28782",
+    "titulo": "Aprendizagem crítica e criativa na cultura digital: desafios, práticas e inovações",
+    "ano": 2025,
+    "dataPublicacao": "2025-05-29",
+    "periodico": "Dialogia",
+    "sourceId": "https://openalex.org/S2738518088",
+    "issn": "1677-1303",
+    "url": "https://doi.org/10.5585/54.2025.28782",
+    "citacoes": 1,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Camila Dias de Oliveira",
+      "Braian Veloso",
+      "Cícera Aparecida Lima Malheiro",
+      "Claudinei Zagui Pareschi",
+      "Luciane Penteado Chaquime",
+      "Daniel Mill"
+    ],
+    "docentes": [
+      {
+        "nome": "Braian Garrito Veloso",
+        "orcid": "0000-0002-9459-5740",
+        "linha": "ECS"
+      },
+      {
+        "nome": "Daniel Ribeiro Silva Mill",
+        "orcid": "0000-0002-8336-3645",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education and Digital Technologies"
     ]
   },
   {
@@ -3382,6 +3519,39 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7204767645",
+    "doi": "10.25755/int.43996",
+    "titulo": "Formação Docente na Cultura Digital",
+    "ano": 2025,
+    "dataPublicacao": "2025-11-06",
+    "periodico": "Revistas SARC",
+    "sourceId": "https://openalex.org/S7407051322",
+    "issn": null,
+    "url": "https://doi.org/10.25755/int.43996",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Murilo Ferreira de Andrade",
+      "Izadora Ribeiro e Garcia de Oliveira",
+      "Braian Veloso"
+    ],
+    "docentes": [
+      {
+        "nome": "Braian Garrito Veloso",
+        "orcid": "0000-0002-9459-5740",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education and Digital Technologies",
+      "Education during COVID-19 pandemic",
+      "Rural and Ethnic Education"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W4408278934",
     "doi": "10.1590/es.294096",
     "titulo": "FORMAÇÃO GERAL (ALLGEMEINE BILDUNG): EM DEFESA DA EDUCAÇÃO PÚBLICA DEMOCRÁTICA",
@@ -4192,7 +4362,7 @@
     "sourceId": "https://openalex.org/S4210227022",
     "issn": "0100-1965",
     "url": "https://doi.org/10.18225/ci.inf.v54i1.7563",
-    "citacoes": 0,
+    "citacoes": 1,
     "acessoAberto": "aberto",
     "autores": [
       "Raquel Juliana Prado Leite de Sousa",
@@ -4842,7 +5012,7 @@
     "sourceId": "https://openalex.org/S88768767",
     "issn": "0894-0282",
     "url": "https://doi.org/10.1094/mpmi-03-25-0032-r",
-    "citacoes": 4,
+    "citacoes": 5,
     "acessoAberto": "aberto",
     "autores": [
       "Kayla K. Pennerman",
@@ -7571,58 +7741,6 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W4394954759",
-    "doi": "10.1590/es.283572",
-    "titulo": "EDUCAÇÃO PÚBLICA NO ATUAL CENÁRIO SÓCIO-POLÍTICO E ECONÔMICO BRASILEIRO",
-    "ano": 2024,
-    "dataPublicacao": "2024-01-01",
-    "periodico": "Educação & Sociedade",
-    "sourceId": "https://openalex.org/S2737687728",
-    "issn": "0101-7330",
-    "url": "https://doi.org/10.1590/es.283572",
-    "citacoes": 2,
-    "acessoAberto": "aberto",
-    "autores": [
-      "Carmen Sylvia Vidigal Moraes",
-      "Roberto Leher",
-      "Celso João Ferretti",
-      "Nelson Cardoso Amaral",
-      "Salomão Barros Ximenes",
-      "Nilma Lino Gomes",
-      "Antônio Álvaro Soares Zuin",
-      "Luana Costa Almeida",
-      "Ana Maria F. Almeida",
-      "Anderson Ricardo Trevisan",
-      "Cláudio Almir Dalbosco",
-      "Débora Mazza",
-      "Licínio C. Lima",
-      "Pedro Goergen",
-      "Sandra Maria Zákia Lian Sousa",
-      "Xavier Rambla",
-      "Vicente Sisto"
-    ],
-    "docentes": [
-      {
-        "nome": "Luana Costa Almeida",
-        "orcid": "0000-0003-0664-6796",
-        "linha": "EETPC"
-      },
-      {
-        "nome": "Antonio Alvaro Soares Zuin",
-        "orcid": "0000-0002-6850-2897",
-        "linha": "ECS"
-      }
-    ],
-    "linhas": [
-      "EETPC",
-      "ECS"
-    ],
-    "topicos": [
-      "Education Pedagogy and Practices",
-      "Education and Public Policy"
-    ]
-  },
-  {
     "openalexId": "https://openalex.org/W4405539851",
     "doi": "10.5747/ch.2024.v20.h592",
     "titulo": "EDUCADORAS DA INFÂNCIA E O DESENVOLVIMENTO DA LINGUAGEM MATEMÁTICA NO TERRITÓRIO DAS CRIANÇAS DE ZERO A TRÊS ANOS",
@@ -7974,7 +8092,7 @@
     "sourceId": "https://openalex.org/S2803517",
     "issn": "0740-9710",
     "url": "https://doi.org/10.1080/07409710.2024.2298175",
-    "citacoes": 9,
+    "citacoes": 10,
     "acessoAberto": "aberto",
     "autores": [
       "Jennifer Coe",
@@ -8039,7 +8157,7 @@
     "sourceId": "https://openalex.org/S123732490",
     "issn": "1471-2393",
     "url": "https://doi.org/10.1186/s12884-023-06175-3",
-    "citacoes": 9,
+    "citacoes": 10,
     "acessoAberto": "aberto",
     "autores": [
       "Luciana Braz de Oliveira Paes",
@@ -12653,6 +12771,37 @@
       "Education Pedagogy and Practices",
       "Education and Digital Technologies",
       "Science and Education Research"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W4382247380",
+    "doi": "10.36311/1519-0110.2023.v24.e023002",
+    "titulo": "Apresentação",
+    "ano": 2023,
+    "dataPublicacao": "2023-06-26",
+    "periodico": "Revista ORG & DEMO",
+    "sourceId": "https://openalex.org/S4210226875",
+    "issn": "1519-0110",
+    "url": "https://doi.org/10.36311/1519-0110.2023.v24.e023002",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "William Retamiro",
+      "Maria Lúcia Teixeira Machado",
+      "Joelson Gonçalves de Carvalho"
+    ],
+    "docentes": [
+      {
+        "nome": "Joelson Gonçalves de Carvalho",
+        "orcid": "0000-0003-4894-1400",
+        "linha": "EPFH"
+      }
+    ],
+    "linhas": [
+      "EPFH"
+    ],
+    "topicos": [
+      "Social and Economic Solidarity"
     ]
   },
   {
@@ -21190,40 +21339,6 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W4280574149",
-    "doi": "10.34112/2317-0972a2022v40n84p9-12",
-    "titulo": "Seres, coisas e desimportâncias: pra inventar de novo a vida que é função principal da poesia",
-    "ano": 2022,
-    "dataPublicacao": "2022-05-13",
-    "periodico": "Leitura Teoria & Prática",
-    "sourceId": "https://openalex.org/S4210186676",
-    "issn": "0102-387X",
-    "url": "https://doi.org/10.34112/2317-0972a2022v40n84p9-12",
-    "citacoes": 0,
-    "acessoAberto": "aberto",
-    "autores": [
-      "Alan Victor Pimenta de Almeida Pales Costa",
-      "Alda Regina Tognini Romaguera",
-      "Carolina Laureto Hora",
-      "Marcus Pereira Novaes"
-    ],
-    "docentes": [
-      {
-        "nome": "Alan Victor Pimenta de Almeida Pales Costa",
-        "orcid": "0000-0001-8715-4229",
-        "linha": "RED"
-      }
-    ],
-    "linhas": [
-      "RED"
-    ],
-    "topicos": [
-      "Linguistics and Education Research",
-      "Psychology and Mental Health",
-      "Social and Political Issues"
-    ]
-  },
-  {
     "openalexId": "https://openalex.org/W4288065337",
     "doi": "10.1590/2526-8910.ctoen234531002",
     "titulo": "Social occupational therapy, anti-oppression and freedom: considerations about the revolution of/in everyday life",
@@ -22011,6 +22126,39 @@
       "Environmental Sustainability and Education",
       "Rural and Ethnic Education",
       "Indigenous Health and Education"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W3167021745",
+    "doi": "10.22481/cpp.v6i14.17516",
+    "titulo": "\"Quem acredita sempre alcança\": limites e perspectivas do trabalho colaborativo em Educação Matemática na escola de tempo integral em um projeto de investigação",
+    "ano": 2021,
+    "dataPublicacao": "2021-04-30",
+    "periodico": "Com a Palavra o Professor",
+    "sourceId": "https://openalex.org/S4210175548",
+    "issn": "2526-2882",
+    "url": "https://doi.org/10.22481/cpp.v6i14.17516",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Bruna Mendes Muniz",
+      "Klinger Teodoro Ciríaco",
+      "Harryson Júnio Lessa Gonçalves"
+    ],
+    "docentes": [
+      {
+        "nome": "Klinger Teodoro Ciríaco",
+        "orcid": "0000-0003-1694-851X",
+        "linha": "FPOAE"
+      }
+    ],
+    "linhas": [
+      "FPOAE"
+    ],
+    "topicos": [
+      "Education Pedagogy and Practices",
+      "Evasion and Academic Success Factors",
+      "Business and Management Studies"
     ]
   },
   {
@@ -23277,6 +23425,39 @@
     ],
     "topicos": [
       "Education Pedagogy and Practices"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7120112870",
+    "doi": "10.22481/cpp.v6i16.18017",
+    "titulo": "Da Licenciatura à Pós-Graduação: práticas promotoras da pesquisa em Educação Matemática nos anos iniciais no contexto do PIBID",
+    "ano": 2021,
+    "dataPublicacao": "2021-12-29",
+    "periodico": "Com a Palavra o Professor",
+    "sourceId": "https://openalex.org/S4210175548",
+    "issn": "2526-2882",
+    "url": "https://doi.org/10.22481/cpp.v6i16.18017",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Danielle Abreu Silva",
+      "Fernando Schlindwein Santino",
+      "Klinger Teodoro Ciríaco"
+    ],
+    "docentes": [
+      {
+        "nome": "Klinger Teodoro Ciríaco",
+        "orcid": "0000-0003-1694-851X",
+        "linha": "FPOAE"
+      }
+    ],
+    "linhas": [
+      "FPOAE"
+    ],
+    "topicos": [
+      "Evasion and Academic Success Factors",
+      "Education Pedagogy and Practices",
+      "Diverse scientific research topics"
     ]
   },
   {
@@ -29945,16 +30126,16 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W4237823950",
-    "doi": "10.29181/2594-6463-2020-v4-n2-p199-213",
+    "openalexId": "https://openalex.org/W3082888138",
+    "doi": "10.29181/2594-6463.2020.v4.n2.p199-213",
     "titulo": "Futebol e política se misturam: na trincheira das lutas contra o autoritarismo",
     "ano": 2020,
     "dataPublicacao": "2020-08-31",
     "periodico": "MOTRICIDADES Revista da Sociedade de Pesquisa Qualitativa em Motricidade Humana",
     "sourceId": "https://openalex.org/S4210194316",
     "issn": "2594-6463",
-    "url": "https://doi.org/10.29181/2594-6463-2020-v4-n2-p199-213",
-    "citacoes": 3,
+    "url": "https://doi.org/10.29181/2594-6463.2020.v4.n2.p199-213",
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Osmar Moreira de Souza"
@@ -29975,16 +30156,16 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W3082888138",
-    "doi": "10.29181/2594-6463.2020.v4.n2.p199-213",
+    "openalexId": "https://openalex.org/W4237823950",
+    "doi": "10.29181/2594-6463-2020-v4-n2-p199-213",
     "titulo": "Futebol e política se misturam: na trincheira das lutas contra o autoritarismo",
     "ano": 2020,
     "dataPublicacao": "2020-08-31",
     "periodico": "MOTRICIDADES Revista da Sociedade de Pesquisa Qualitativa em Motricidade Humana",
     "sourceId": "https://openalex.org/S4210194316",
     "issn": "2594-6463",
-    "url": "https://doi.org/10.29181/2594-6463.2020.v4.n2.p199-213",
-    "citacoes": 2,
+    "url": "https://doi.org/10.29181/2594-6463-2020-v4-n2-p199-213",
+    "citacoes": 3,
     "acessoAberto": "aberto",
     "autores": [
       "Osmar Moreira de Souza"
@@ -33044,38 +33225,6 @@
       "Social and Political Issues",
       "Business and Management Studies",
       "Academic Research in Diverse Fields"
-    ]
-  },
-  {
-    "openalexId": "https://openalex.org/W3026291043",
-    "doi": "10.4322/2526-8910.ctoed22802",
-    "titulo": "Terapia ocupacional em tempos de pandemia: seguridade social e garantias de um cotidiano possível para todos",
-    "ano": 2020,
-    "dataPublicacao": "2020-01-01",
-    "periodico": "Cadernos Brasileiros de Terapia Ocupacional ",
-    "sourceId": "https://openalex.org/S4210189390",
-    "issn": "0104-4931",
-    "url": "https://doi.org/10.4322/2526-8910.ctoed22802",
-    "citacoes": 30,
-    "acessoAberto": "aberto",
-    "autores": [
-      "Ana Paula Serrata Malfitano",
-      "Daniel Marinho Cezar da Cruz",
-      "Roseli Esquerdo Lopes"
-    ],
-    "docentes": [
-      {
-        "nome": "Roseli Esquerdo Lopes",
-        "orcid": "0000-0001-9572-4586",
-        "linha": "HFSE"
-      }
-    ],
-    "linhas": [
-      "HFSE"
-    ],
-    "topicos": [
-      "Occupational Therapy Practice and Research",
-      "Occupational Health and Burnout"
     ]
   },
   {
@@ -45458,7 +45607,7 @@
     "sourceId": "https://openalex.org/S4210231406",
     "issn": "0104-4877",
     "url": "https://doi.org/10.20396/zet.v25i1.8647556",
-    "citacoes": 22,
+    "citacoes": 23,
     "acessoAberto": "aberto",
     "autores": [
       "Flávia Cristina Figueiredo Coura",
@@ -45553,7 +45702,7 @@
     "sourceId": "https://openalex.org/S2736467988",
     "issn": "1517-9702",
     "url": "https://doi.org/10.1590/s1517-9702201701151678",
-    "citacoes": 22,
+    "citacoes": 23,
     "acessoAberto": "aberto",
     "autores": [
       "Joana Brás Varanda Marques",
@@ -56079,35 +56228,6 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W1977039784",
-    "doi": "10.1590/s1413-24782014000900014",
-    "titulo": "Gestão educacional: amigos da escola em ação",
-    "ano": 2014,
-    "dataPublicacao": "2014-12-01",
-    "periodico": "Revista Brasileira de Educação",
-    "sourceId": "https://openalex.org/S2736711335",
-    "issn": "1413-2478",
-    "url": "https://doi.org/10.1590/s1413-24782014000900014",
-    "citacoes": 0,
-    "acessoAberto": "aberto",
-    "autores": [
-      "Luís Antônio Groppo"
-    ],
-    "docentes": [
-      {
-        "nome": "Luís Antonio Groppo",
-        "orcid": "0000-0002-0143-5167",
-        "linha": "HFSE"
-      }
-    ],
-    "linhas": [
-      "HFSE"
-    ],
-    "topicos": [
-      "Education Pedagogy and Practices"
-    ]
-  },
-  {
     "openalexId": "https://openalex.org/W1981655917",
     "doi": "10.4236/oalib.1100776",
     "titulo": "Globalization and the Political Economy of the Brazilian Federal University",
@@ -59218,7 +59338,7 @@
     "sourceId": "https://openalex.org/S2737687728",
     "issn": "0101-7330",
     "url": "https://doi.org/10.1590/s0101-73302013000400008",
-    "citacoes": 64,
+    "citacoes": 65,
     "acessoAberto": "aberto",
     "autores": [
       "Luana Costa Almeida",
@@ -63006,7 +63126,7 @@
     "sourceId": "https://openalex.org/S4210218408",
     "issn": "2178-2075",
     "url": "https://doi.org/10.11606/issn.2178-2075.v2i1p110-129",
-    "citacoes": 96,
+    "citacoes": 97,
     "acessoAberto": "aberto",
     "autores": [
       "Márcia Regina da Silva",
@@ -69369,39 +69489,6 @@
       "Occupational health in dentistry",
       "Medical Malpractice and Liability Issues",
       "Dental Education, Practice, Research"
-    ]
-  },
-  {
-    "openalexId": "https://openalex.org/W4251821119",
-    "doi": "10.1590/s0101-73302003000200002",
-    "titulo": "Apresentação",
-    "ano": 2003,
-    "dataPublicacao": "2003-08-01",
-    "periodico": "Educação & Sociedade",
-    "sourceId": "https://openalex.org/S2737687728",
-    "issn": "0101-7330",
-    "url": "https://doi.org/10.1590/s0101-73302003000200002",
-    "citacoes": 0,
-    "acessoAberto": "aberto",
-    "autores": [
-      "Antônio Álvaro Soares Zuin",
-      "Bruno Pucci",
-      "Newton Ramos-de-Oliveira"
-    ],
-    "docentes": [
-      {
-        "nome": "Antonio Alvaro Soares Zuin",
-        "orcid": "0000-0002-6850-2897",
-        "linha": "ECS"
-      }
-    ],
-    "linhas": [
-      "ECS"
-    ],
-    "topicos": [
-      "Corporeality, Perception, and Education",
-      "Health, Education, and Cultural Studies",
-      "Youth, Politics, and Society"
     ]
   },
   {
