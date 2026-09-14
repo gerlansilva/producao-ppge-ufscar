@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-09-07T12:43:46.683Z",
+  "atualizadoEm": "2026-09-14T13:00:43.864Z",
   "totalDocentes": 74,
-  "totalArtigos": 2134,
-  "totalPeriodicos": 566,
-  "artigosCoautoria": 1831,
+  "totalArtigos": 2141,
+  "totalPeriodicos": 565,
+  "artigosCoautoria": 1835,
   "porAno": [
     {
       "ano": 1990,
@@ -31,11 +31,11 @@
     },
     {
       "ano": 2003,
-      "total": 8
+      "total": 9
     },
     {
       "ano": 2004,
-      "total": 5
+      "total": 6
     },
     {
       "ano": 2005,
@@ -75,7 +75,7 @@
     },
     {
       "ano": 2014,
-      "total": 78
+      "total": 79
     },
     {
       "ano": 2015,
@@ -115,7 +115,7 @@
     },
     {
       "ano": 2024,
-      "total": 187
+      "total": 188
     },
     {
       "ano": 2025,
@@ -123,17 +123,17 @@
     },
     {
       "ano": 2026,
-      "total": 48
+      "total": 51
     }
   ],
   "porLinha": {
-    "HFSE": 441,
-    "FPOAE": 304,
+    "HFSE": 444,
+    "FPOAE": 305,
     "EPFH": 363,
-    "EETPC": 296,
+    "EETPC": 298,
     "PSPE": 136,
     "ECM": 205,
-    "ECS": 335,
+    "ECS": 337,
     "RED": 116
   },
   "perfisOpenAlex": 73,

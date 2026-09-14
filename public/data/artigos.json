@@ -1376,6 +1376,70 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7212040892",
+    "doi": "10.33871/23594381.2026.24.2.12370",
+    "titulo": "Revisitando uma tese sobre professoras iniciantes e a aprendizagem da docência em Matemática em contexto colaborativo",
+    "ano": 2026,
+    "dataPublicacao": "2026-08-31",
+    "periodico": "Revista Ensino & Pesquisa",
+    "sourceId": "https://openalex.org/S4210175726",
+    "issn": "1676-1030",
+    "url": "https://doi.org/10.33871/23594381.2026.24.2.12370",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Klinger Teodoro Ciríaco"
+    ],
+    "docentes": [
+      {
+        "nome": "Klinger Teodoro Ciríaco",
+        "orcid": "0000-0003-1694-851X",
+        "linha": "FPOAE"
+      }
+    ],
+    "linhas": [
+      "FPOAE"
+    ],
+    "topicos": [
+      "Diverse scientific research topics",
+      "Education Pedagogy and Practices",
+      "Evasion and Academic Success Factors"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7211937283",
+    "doi": "10.1590/2526-8910.cto430642762",
+    "titulo": "Social occupational therapy and its technologies: pathways for thinking/doing intervention",
+    "ano": 2026,
+    "dataPublicacao": "2026-01-01",
+    "periodico": "Cadernos Brasileiros de Terapia Ocupacional ",
+    "sourceId": "https://openalex.org/S4210189390",
+    "issn": "0104-4931",
+    "url": "https://doi.org/10.1590/2526-8910.cto430642762",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Magno Nunes Farias",
+      "Késia Maria Maximiano de Melo",
+      "Roseli Esquerdo Lopes"
+    ],
+    "docentes": [
+      {
+        "nome": "Roseli Esquerdo Lopes",
+        "orcid": "0000-0001-9572-4586",
+        "linha": "HFSE"
+      }
+    ],
+    "linhas": [
+      "HFSE"
+    ],
+    "topicos": [
+      "Occupational Therapy Practice and Research",
+      "Assistive Technology in Communication and Mobility",
+      "Innovative Education and Learning Practices"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W7203615140",
     "doi": "10.29327/243949.6.11-14",
     "titulo": "SONS, SABORES E IDENTIDADE: uma análise socioespacial comparativa entre o “Festival Café com Música” (Cristina/MG) e a “Festa do Maior Pé de Moleque do Mundo” (Piranguinho/MG",
@@ -1534,6 +1598,39 @@
       "Science and Education Research",
       "Health, Education, and Aging",
       "Education Pedagogy and Practices"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7211938431",
+    "doi": "10.1590/2526-8910.cto430642761",
+    "titulo": "Terapia ocupacional social e suas tecnologias: caminhos para pensar/fazer intervenção",
+    "ano": 2026,
+    "dataPublicacao": "2026-01-01",
+    "periodico": "Cadernos Brasileiros de Terapia Ocupacional ",
+    "sourceId": "https://openalex.org/S4210189390",
+    "issn": "0104-4931",
+    "url": "https://doi.org/10.1590/2526-8910.cto430642761",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Magno Nunes Farias",
+      "Késia Maria Maximiano de Melo",
+      "Roseli Esquerdo Lopes"
+    ],
+    "docentes": [
+      {
+        "nome": "Roseli Esquerdo Lopes",
+        "orcid": "0000-0001-9572-4586",
+        "linha": "HFSE"
+      }
+    ],
+    "linhas": [
+      "HFSE"
+    ],
+    "topicos": [
+      "Occupational Therapy Practice and Research",
+      "Assistive Technology in Communication and Mobility",
+      "Health, Nursing, Elderly Care"
     ]
   },
   {
@@ -6539,7 +6636,7 @@
     "sourceId": "https://openalex.org/S2765020922",
     "issn": "1442-7591",
     "url": "https://doi.org/10.1080/14427591.2024.2374308",
-    "citacoes": 12,
+    "citacoes": 13,
     "acessoAberto": "fechado",
     "autores": [
       "Jaime Daniel Leite",
@@ -7741,6 +7838,58 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W4394954759",
+    "doi": "10.1590/es.283572",
+    "titulo": "EDUCAÇÃO PÚBLICA NO ATUAL CENÁRIO SÓCIO-POLÍTICO E ECONÔMICO BRASILEIRO",
+    "ano": 2024,
+    "dataPublicacao": "2024-01-01",
+    "periodico": "Educação & Sociedade",
+    "sourceId": "https://openalex.org/S2737687728",
+    "issn": "0101-7330",
+    "url": "https://doi.org/10.1590/es.283572",
+    "citacoes": 2,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Carmen Sylvia Vidigal Moraes",
+      "Roberto Leher",
+      "Celso João Ferretti",
+      "Nelson Cardoso Amaral",
+      "Salomão Barros Ximenes",
+      "Nilma Lino Gomes",
+      "Antônio Álvaro Soares Zuin",
+      "Luana Costa Almeida",
+      "Ana Maria F. Almeida",
+      "Anderson Ricardo Trevisan",
+      "Cláudio Almir Dalbosco",
+      "Débora Mazza",
+      "Licínio C. Lima",
+      "Pedro Goergen",
+      "Sandra Maria Zákia Lian Sousa",
+      "Xavier Rambla",
+      "Vicente Sisto"
+    ],
+    "docentes": [
+      {
+        "nome": "Luana Costa Almeida",
+        "orcid": "0000-0003-0664-6796",
+        "linha": "EETPC"
+      },
+      {
+        "nome": "Antonio Alvaro Soares Zuin",
+        "orcid": "0000-0002-6850-2897",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "EETPC",
+      "ECS"
+    ],
+    "topicos": [
+      "Education Pedagogy and Practices",
+      "Education and Public Policy"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W4405539851",
     "doi": "10.5747/ch.2024.v20.h592",
     "titulo": "EDUCADORAS DA INFÂNCIA E O DESENVOLVIMENTO DA LINGUAGEM MATEMÁTICA NO TERRITÓRIO DAS CRIANÇAS DE ZERO A TRÊS ANOS",
@@ -8157,7 +8306,7 @@
     "sourceId": "https://openalex.org/S123732490",
     "issn": "1471-2393",
     "url": "https://doi.org/10.1186/s12884-023-06175-3",
-    "citacoes": 10,
+    "citacoes": 11,
     "acessoAberto": "aberto",
     "autores": [
       "Luciana Braz de Oliveira Paes",
@@ -16764,7 +16913,7 @@
     "sourceId": "https://openalex.org/S2738740277",
     "issn": "2525-4863",
     "url": "https://doi.org/10.20873/uft.rbec.e14582",
-    "citacoes": 4,
+    "citacoes": 6,
     "acessoAberto": "aberto",
     "autores": [
       "Magno Nunes Farias",
@@ -25471,7 +25620,7 @@
     "sourceId": "https://openalex.org/S4210227138",
     "issn": "1982-5153",
     "url": "https://doi.org/10.5007/1982-5153.2021.e71785",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Cicero Augusto dos Santos",
@@ -28404,7 +28553,7 @@
     "sourceId": "https://openalex.org/S156506154",
     "issn": "1414-8145",
     "url": "https://doi.org/10.1590/2177-9465-ean-2020-0050",
-    "citacoes": 27,
+    "citacoes": 28,
     "acessoAberto": "aberto",
     "autores": [
       "Isabela Martins Gabriel",
@@ -31210,7 +31359,7 @@
     "sourceId": "https://openalex.org/S4210167574",
     "issn": "1414-3283",
     "url": "https://doi.org/10.1590/interface.19086",
-    "citacoes": 2,
+    "citacoes": 3,
     "acessoAberto": "aberto",
     "autores": [
       "Flávio Adriano Borges",
@@ -31611,7 +31760,7 @@
     "sourceId": "https://openalex.org/S117868143",
     "issn": "0966-7903",
     "url": "https://doi.org/10.1155/2020/5891978",
-    "citacoes": 32,
+    "citacoes": 33,
     "acessoAberto": "aberto",
     "autores": [
       "́Patrícia Leme de Oliveira Borba",
@@ -31868,7 +32017,7 @@
     "sourceId": "https://openalex.org/S4210189390",
     "issn": "0104-4931",
     "url": "https://doi.org/10.4322/2526-8910.ctoarf1877",
-    "citacoes": 44,
+    "citacoes": 46,
     "acessoAberto": "aberto",
     "autores": [
       "Késia Maria Maximiano de Melo",
@@ -35060,7 +35209,7 @@
     "sourceId": "https://openalex.org/S152657728",
     "issn": "0104-4060",
     "url": "https://doi.org/10.1590/0104-4060.64821",
-    "citacoes": 16,
+    "citacoes": 17,
     "acessoAberto": "aberto",
     "autores": [
       "Antônio Igo Barreto Pereira",
@@ -41939,7 +42088,7 @@
     "sourceId": "https://openalex.org/S165454098",
     "issn": "0141-0296",
     "url": "https://doi.org/10.1016/j.engstruct.2018.12.034",
-    "citacoes": 32,
+    "citacoes": 33,
     "acessoAberto": "aberto",
     "autores": [
       "Fabiana Marini Braga",
@@ -42127,7 +42276,7 @@
     "sourceId": "https://openalex.org/S4210200325",
     "issn": "1413-7321",
     "url": "https://doi.org/10.18316/recc.v23i1.4125",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Ademir Donizeti Caldeira",
@@ -45885,7 +46034,7 @@
     "sourceId": "https://openalex.org/S2736521713",
     "issn": "1519-387X",
     "url": "https://doi.org/10.4013/edu.2017.211.05",
-    "citacoes": 5,
+    "citacoes": 6,
     "acessoAberto": "aberto",
     "autores": [
       "Diogo Marques Tafuri",
@@ -48648,7 +48797,7 @@
     "sourceId": "https://openalex.org/S2732126",
     "issn": "0104-1290",
     "url": "https://doi.org/10.1590/s0104-12902016150784",
-    "citacoes": 11,
+    "citacoes": 13,
     "acessoAberto": "aberto",
     "autores": [
       "Marília Meyer Bregalda",
@@ -50207,9 +50356,9 @@
     "titulo": "GRUPO DE ESTUDOS SOBRE A JUVENTUDE DE ALFENAS-MG: RELATO DE EXPERIÊNCIA SOBRE UM PROJETO DE EXTENSÃO UNIVERSITÁRIA",
     "ano": 2016,
     "dataPublicacao": "2016-03-08",
-    "periodico": "SHILAP Revista de lepidopterología",
-    "sourceId": "https://openalex.org/S112646816",
-    "issn": "0300-5267",
+    "periodico": "Revista Brasileira de Extensão Universitária",
+    "sourceId": "https://openalex.org/S2738057158",
+    "issn": "1806-2695",
     "url": "https://doi.org/10.24317/2358-0399.%yv7i1.3076",
     "citacoes": 1,
     "acessoAberto": "aberto",
@@ -54118,7 +54267,7 @@
     "sourceId": "https://openalex.org/S4210173032",
     "issn": "0717-6767",
     "url": "https://doi.org/10.5354/0719-5346.2015.37132",
-    "citacoes": 29,
+    "citacoes": 31,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -56228,6 +56377,35 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W1977039784",
+    "doi": "10.1590/s1413-24782014000900014",
+    "titulo": "Gestão educacional: amigos da escola em ação",
+    "ano": 2014,
+    "dataPublicacao": "2014-12-01",
+    "periodico": "Revista Brasileira de Educação",
+    "sourceId": "https://openalex.org/S2736711335",
+    "issn": "1413-2478",
+    "url": "https://doi.org/10.1590/s1413-24782014000900014",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Luís Antônio Groppo"
+    ],
+    "docentes": [
+      {
+        "nome": "Luís Antonio Groppo",
+        "orcid": "0000-0002-0143-5167",
+        "linha": "HFSE"
+      }
+    ],
+    "linhas": [
+      "HFSE"
+    ],
+    "topicos": [
+      "Education Pedagogy and Practices"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W1981655917",
     "doi": "10.4236/oalib.1100776",
     "titulo": "Globalization and the Political Economy of the Brazilian Federal University",
@@ -56472,7 +56650,7 @@
     "sourceId": "https://openalex.org/S4210186873",
     "issn": "0104-5962",
     "url": "https://doi.org/10.29286/rep.v24i55.810",
-    "citacoes": 4,
+    "citacoes": 5,
     "acessoAberto": "aberto",
     "autores": [
       "Luana Costa Almeida",
@@ -57097,7 +57275,7 @@
     "sourceId": "https://openalex.org/S4210189390",
     "issn": "0104-4931",
     "url": "https://doi.org/10.4322/cto.2014.081",
-    "citacoes": 93,
+    "citacoes": 95,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -57262,7 +57440,7 @@
     "sourceId": "https://openalex.org/S153307584",
     "issn": "0008-4174",
     "url": "https://doi.org/10.1177/0008417414536712",
-    "citacoes": 71,
+    "citacoes": 72,
     "acessoAberto": "fechado",
     "autores": [
       "Ana Paula Serrata Malfitano",
@@ -59338,7 +59516,7 @@
     "sourceId": "https://openalex.org/S2737687728",
     "issn": "0101-7330",
     "url": "https://doi.org/10.1590/s0101-73302013000400008",
-    "citacoes": 65,
+    "citacoes": 64,
     "acessoAberto": "aberto",
     "autores": [
       "Luana Costa Almeida",
@@ -61940,7 +62118,7 @@
     "sourceId": "https://openalex.org/S4210176729",
     "issn": "0103-636X",
     "url": "https://doi.org/10.1590/s0103-636x2012000300012",
-    "citacoes": 21,
+    "citacoes": 20,
     "acessoAberto": "aberto",
     "autores": [
       "Everaldo Silveira",
@@ -62195,7 +62373,7 @@
     "sourceId": "https://openalex.org/S2764349063",
     "issn": "1447-3828",
     "url": "https://doi.org/10.1179/otb.2012.66.1.021",
-    "citacoes": 13,
+    "citacoes": 15,
     "acessoAberto": "fechado",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -63093,7 +63271,7 @@
     "sourceId": "https://openalex.org/S4210177534",
     "issn": "0104-7809",
     "url": "https://doi.org/10.15343/0104-7809.20112233238",
-    "citacoes": 24,
+    "citacoes": 26,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -63811,7 +63989,7 @@
     "sourceId": "https://openalex.org/S4210167574",
     "issn": "1414-3283",
     "url": "https://doi.org/10.1590/s1414-32832011000100021",
-    "citacoes": 59,
+    "citacoes": 61,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -64959,7 +65137,7 @@
     "sourceId": "https://openalex.org/S4210177534",
     "issn": "0104-7809",
     "url": "https://doi.org/10.15343/0104-7809.20102140147",
-    "citacoes": 7,
+    "citacoes": 9,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -65193,7 +65371,7 @@
     "sourceId": "https://openalex.org/S4210180283",
     "issn": "1414-4077",
     "url": "https://doi.org/10.1590/s1414-40772010000300009",
-    "citacoes": 14,
+    "citacoes": 13,
     "acessoAberto": "aberto",
     "autores": [
       "Carlos Roberto Massao Hayashi",
@@ -66098,7 +66276,7 @@
     "sourceId": "https://openalex.org/S4210187011",
     "issn": "1135-6405",
     "url": "https://doi.org/10.1174/113564009788345871",
-    "citacoes": 11,
+    "citacoes": 12,
     "acessoAberto": "fechado",
     "autores": [
       "Roseli Rodrigues de Mello"
@@ -66193,7 +66371,7 @@
     "sourceId": "https://openalex.org/S2737687728",
     "issn": "0101-7330",
     "url": "https://doi.org/10.1590/s0101-73302009000200010",
-    "citacoes": 13,
+    "citacoes": 15,
     "acessoAberto": "aberto",
     "autores": [
       "Marisa Bittar",
@@ -67376,7 +67554,7 @@
     "sourceId": "https://openalex.org/S2732126",
     "issn": "0104-1290",
     "url": "https://doi.org/10.1590/s0104-12902008000300008",
-    "citacoes": 60,
+    "citacoes": 62,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -68150,7 +68328,7 @@
     "sourceId": "https://openalex.org/S152657728",
     "issn": "0104-4060",
     "url": "https://doi.org/10.1590/s0104-40602007000200006",
-    "citacoes": 17,
+    "citacoes": 16,
     "acessoAberto": "aberto",
     "autores": [
       "Nilson Fernandes Dinis",
@@ -68697,7 +68875,7 @@
     "sourceId": "https://openalex.org/S4210167574",
     "issn": "1414-3283",
     "url": "https://doi.org/10.1590/s1414-32832006000200016",
-    "citacoes": 19,
+    "citacoes": 18,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -69329,6 +69507,37 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W1998431172",
+    "doi": "10.1590/s0101-73302004000100013",
+    "titulo": "A educadora de creche: construindo suas identidades",
+    "ano": 2004,
+    "dataPublicacao": "2004-04-01",
+    "periodico": "Educação & Sociedade",
+    "sourceId": "https://openalex.org/S2737687728",
+    "issn": "0101-7330",
+    "url": "https://doi.org/10.1590/s0101-73302004000100013",
+    "citacoes": 33,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Maria Aparecida Mello"
+    ],
+    "docentes": [
+      {
+        "nome": "Maria Aparecida Mello",
+        "orcid": "0000-0003-2404-7957",
+        "linha": "EETPC"
+      }
+    ],
+    "linhas": [
+      "EETPC"
+    ],
+    "topicos": [
+      "Education and Digital Technologies",
+      "Linguistics and Education Research",
+      "Education Pedagogy and Practices"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W1997908850",
     "doi": "10.1016/j.jmmm.2003.11.359",
     "titulo": "Anomalous slow dynamics in quantum spin chains",
@@ -69489,6 +69698,39 @@
       "Occupational health in dentistry",
       "Medical Malpractice and Liability Issues",
       "Dental Education, Practice, Research"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W4251821119",
+    "doi": "10.1590/s0101-73302003000200002",
+    "titulo": "Apresentação",
+    "ano": 2003,
+    "dataPublicacao": "2003-08-01",
+    "periodico": "Educação & Sociedade",
+    "sourceId": "https://openalex.org/S2737687728",
+    "issn": "0101-7330",
+    "url": "https://doi.org/10.1590/s0101-73302003000200002",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Antônio Álvaro Soares Zuin",
+      "Bruno Pucci",
+      "Newton Ramos-de-Oliveira"
+    ],
+    "docentes": [
+      {
+        "nome": "Antonio Alvaro Soares Zuin",
+        "orcid": "0000-0002-6850-2897",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Corporeality, Perception, and Education",
+      "Health, Education, and Cultural Studies",
+      "Youth, Politics, and Society"
     ]
   },
   {
@@ -69841,7 +70083,7 @@
     "sourceId": "https://openalex.org/S4210174686",
     "issn": "1415-9104",
     "url": "https://doi.org/10.11606/issn.2238-6149.v13i3p95-103",
-    "citacoes": 173,
+    "citacoes": 175,
     "acessoAberto": "aberto",
     "autores": [
       "Denise Dias Barros",
@@ -69935,7 +70177,7 @@
     "sourceId": "https://openalex.org/S4210174686",
     "issn": "1415-9104",
     "url": "https://doi.org/10.11606/issn.2238-6149.rto.2001.224307",
-    "citacoes": 2,
+    "citacoes": 4,
     "acessoAberto": "aberto",
     "autores": [
       "Roseli Esquerdo Lopes",
@@ -70186,7 +70428,7 @@
     "sourceId": "https://openalex.org/S4210174686",
     "issn": "1415-9104",
     "url": "https://doi.org/10.11606/issn.2238-6149.rto.1999.224493",
-    "citacoes": 40,
+    "citacoes": 42,
     "acessoAberto": "aberto",
     "autores": [
       "Denise Dias Barros",
