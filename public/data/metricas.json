@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-09-14T13:00:43.864Z",
+  "atualizadoEm": "2026-09-21T12:58:51.799Z",
   "totalDocentes": 74,
-  "totalArtigos": 2141,
-  "totalPeriodicos": 565,
-  "artigosCoautoria": 1835,
+  "totalArtigos": 2149,
+  "totalPeriodicos": 567,
+  "artigosCoautoria": 1843,
   "porAno": [
     {
       "ano": 1990,
@@ -95,7 +95,7 @@
     },
     {
       "ano": 2019,
-      "total": 161
+      "total": 162
     },
     {
       "ano": 2020,
@@ -103,7 +103,7 @@
     },
     {
       "ano": 2021,
-      "total": 164
+      "total": 165
     },
     {
       "ano": 2022,
@@ -111,7 +111,7 @@
     },
     {
       "ano": 2023,
-      "total": 160
+      "total": 161
     },
     {
       "ano": 2024,
@@ -119,25 +119,23 @@
     },
     {
       "ano": 2025,
-      "total": 121
+      "total": 123
     },
     {
       "ano": 2026,
-      "total": 51
+      "total": 54
     }
   ],
   "porLinha": {
-    "HFSE": 444,
+    "HFSE": 445,
     "FPOAE": 305,
     "EPFH": 363,
+    "ECM": 206,
     "EETPC": 298,
     "PSPE": 136,
-    "ECM": 205,
-    "ECS": 337,
-    "RED": 116
+    "RED": 117,
+    "ECS": 342
   },
-  "perfisOpenAlex": 73,
-  "avisos": [
-    "Michele Varotto Machado: perfil OpenAlex não localizado; usada a lista pública do ORCID."
-  ]
+  "perfisOpenAlex": 74,
+  "avisos": []
 }

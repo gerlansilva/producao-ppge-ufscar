@@ -164,6 +164,38 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7213233920",
+    "doi": "10.24933/horizontes.v44i1.2360",
+    "titulo": "Aspectos da inclusão digital na escola pública à luz da defectologia e do mito dos nativos digitais",
+    "ano": 2026,
+    "dataPublicacao": "2026-09-14",
+    "periodico": "Horizontes",
+    "sourceId": "https://openalex.org/S4210198334",
+    "issn": "0103-7706",
+    "url": "https://doi.org/10.24933/horizontes.v44i1.2360",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Eliude de Lima Felizindo",
+      "Maria do Carmo de Sousa"
+    ],
+    "docentes": [
+      {
+        "nome": "Maria do Carmo de Sousa",
+        "orcid": "0000-0002-5523-757X",
+        "linha": "ECM"
+      }
+    ],
+    "linhas": [
+      "ECM"
+    ],
+    "topicos": [
+      "Education and Digital Technologies",
+      "Education Pedagogy and Practices",
+      "Education during COVID-19 pandemic"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W7172386303",
     "doi": "10.9771/cgd.v12i2.71196",
     "titulo": "Ativistas e militantes que são LGBTQIAPN+ nas Jornadas de 2013:",
@@ -378,6 +410,38 @@
       "Education Pedagogy and Practices",
       "Science and Education Research",
       "Educational Practices and Policies"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7213527847",
+    "doi": "10.23925/1809-3876.2026v24e75169",
+    "titulo": "Currículo e discurso como maquinaria de tempo na formação docente em educação das relações étnico-raciais",
+    "ano": 2026,
+    "dataPublicacao": "2026-09-04",
+    "periodico": "Revista e-Curriculum",
+    "sourceId": "https://openalex.org/S4210187470",
+    "issn": "1809-3876",
+    "url": "https://doi.org/10.23925/1809-3876.2026v24e75169",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Mariana Farias Egues",
+      "Tatiane Cosentino Rodrigues"
+    ],
+    "docentes": [
+      {
+        "nome": "Tatiane Cosentino Rodrigues",
+        "orcid": "0000-0002-4402-2805",
+        "linha": "RED"
+      }
+    ],
+    "linhas": [
+      "RED"
+    ],
+    "topicos": [
+      "Race, Identity, and Education in Brazil",
+      "Education Pedagogy and Practices",
+      "Science and Science Education"
     ]
   },
   {
@@ -676,6 +740,40 @@
       "Critical Theory and Political Philosophy",
       "Populism, Right-Wing Movements",
       "Social and Political Issues"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7170144227",
+    "doi": "10.26694/rles.v30i63.8253",
+    "titulo": "FORMAÇÃO POLÍTICA E TRAJETÓRIAS: JOVENS ATIVISTAS E MILITANTES NAS JORNADAS DE 2013 EM SÃO PAULO",
+    "ano": 2026,
+    "dataPublicacao": "2026-07-23",
+    "periodico": "Linguagens Educação e Sociedade",
+    "sourceId": "https://openalex.org/S4210195246",
+    "issn": "1518-0743",
+    "url": "https://doi.org/10.26694/rles.v30i63.8253",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Josefa Alexandrina da Silva",
+      "Luís Antônio Groppo",
+      "Mariana Calvi Santos",
+      "Yasmin A. da Silva Oliveira"
+    ],
+    "docentes": [
+      {
+        "nome": "Luís Antonio Groppo",
+        "orcid": "0000-0002-0143-5167",
+        "linha": "HFSE"
+      }
+    ],
+    "linhas": [
+      "HFSE"
+    ],
+    "topicos": [
+      "Social and Political Issues",
+      "Youth, Politics, and Society",
+      "Sociology and Education in Brazil"
     ]
   },
   {
@@ -2952,6 +3050,39 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W7213508816",
+    "doi": "10.53628/emrede.v12i.1128",
+    "titulo": "contribuição da educação híbrida para práticas mais significativas e efetivas no ensino superior público",
+    "ano": 2025,
+    "dataPublicacao": "2025-12-30",
+    "periodico": "EmRede - Revista de Educação a Distância",
+    "sourceId": "https://openalex.org/S4210229337",
+    "issn": "2359-6082",
+    "url": "https://doi.org/10.53628/emrede.v12i.1128",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Claudinei Zagui Pareschi",
+      "Gustavo Carvalho Mauricio",
+      "Daniel Mill"
+    ],
+    "docentes": [
+      {
+        "nome": "Daniel Ribeiro Silva Mill",
+        "orcid": "0000-0002-8336-3645",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education during COVID-19 pandemic",
+      "Psychodrama and Leishmaniasis Studies",
+      "Science and Education Research"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W4415443764",
     "doi": "10.18675/1981-8106.v35.n.69.s18210",
     "titulo": "Contribuições da área de Educational Leadership and Management para o debate sobre lideranças escolares no Brasil",
@@ -3487,6 +3618,38 @@
       "Family and Matrimonial Law",
       "Ethics and bioethics in healthcare",
       "Comparative constitutional jurisprudence studies"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W7213495817",
+    "doi": "10.53628/emrede.v12i.1119",
+    "titulo": "Escola como espaço de aprendizagem da docência",
+    "ano": 2025,
+    "dataPublicacao": "2025-12-29",
+    "periodico": "EmRede - Revista de Educação a Distância",
+    "sourceId": "https://openalex.org/S4210229337",
+    "issn": "2359-6082",
+    "url": "https://doi.org/10.53628/emrede.v12i.1119",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Braian Veloso",
+      "Francine de Paulo Martins Lima"
+    ],
+    "docentes": [
+      {
+        "nome": "Braian Garrito Veloso",
+        "orcid": "0000-0002-9459-5740",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education during COVID-19 pandemic",
+      "Science and Education Research",
+      "Education and Digital Technologies"
     ]
   },
   {
@@ -6374,6 +6537,11 @@
         "nome": "Maria Cecilia Luiz",
         "orcid": "0000-0001-5140-2753",
         "linha": "ECS"
+      },
+      {
+        "nome": "Michele Varotto Machado",
+        "orcid": "0009-0007-0114-8591",
+        "linha": "ECS"
       }
     ],
     "linhas": [
@@ -7778,7 +7946,7 @@
     "sourceId": "https://openalex.org/S2738465378",
     "issn": "0871-9187",
     "url": "https://doi.org/10.21814/rpe.29231",
-    "citacoes": 3,
+    "citacoes": 6,
     "acessoAberto": "aberto",
     "autores": [
       "Braian Veloso",
@@ -10110,7 +10278,7 @@
     "sourceId": "https://openalex.org/S53297675",
     "issn": "1413-8123",
     "url": "https://doi.org/10.1590/1413-81232024293.04232023",
-    "citacoes": 7,
+    "citacoes": 8,
     "acessoAberto": "aberto",
     "autores": [
       "Nathalia Ester Martins Guerra",
@@ -11113,7 +11281,7 @@
     "sourceId": "https://openalex.org/S2737405616",
     "issn": "2316-4484",
     "url": "https://doi.org/10.47247/2316.4484/12.1.11",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Braian Veloso",
@@ -12715,6 +12883,38 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W4394830604",
+    "doi": "10.61389/iproxo.v5i1.7006",
+    "titulo": "ALFABETIZAÇÃO",
+    "ano": 2023,
+    "dataPublicacao": "2023-06-16",
+    "periodico": "IPÊ ROXO",
+    "sourceId": "https://openalex.org/S4394906784",
+    "issn": "2675-0791",
+    "url": "https://doi.org/10.61389/iproxo.v5i1.7006",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Terezinha Garcia Cazuza Martinez",
+      "Michele Varotto Machado"
+    ],
+    "docentes": [
+      {
+        "nome": "Michele Varotto Machado",
+        "orcid": "0009-0007-0114-8591",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Linguistics and Education Research",
+      "Rural and Ethnic Education",
+      "Linguistics and Language Studies"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W4387753863",
     "doi": "10.21920/recei72023930357373",
     "titulo": "ALFABETIZAÇÃO MATEMÁTICA",
@@ -13986,7 +14186,7 @@
     "sourceId": "https://openalex.org/S2738518088",
     "issn": "1677-1303",
     "url": "https://doi.org/10.5585/44.2023.23864",
-    "citacoes": 3,
+    "citacoes": 4,
     "acessoAberto": "aberto",
     "autores": [
       "Braian Veloso",
@@ -14897,7 +15097,7 @@
     "sourceId": "https://openalex.org/S2736679368",
     "issn": "1982-7199",
     "url": "https://doi.org/10.14244/198271995735",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Achilles Alves de Oliveira",
@@ -20176,7 +20376,7 @@
     "sourceId": "https://openalex.org/S4210174506",
     "issn": "0104-7043",
     "url": "https://doi.org/10.21879/faeeba2358-0194.2022.v31.n65.p201-224",
-    "citacoes": 3,
+    "citacoes": 4,
     "acessoAberto": "aberto",
     "autores": [
       "Daniel Mill",
@@ -25269,6 +25469,38 @@
     ]
   },
   {
+    "openalexId": "https://openalex.org/W4400677144",
+    "doi": "10.69568/2237-5406.2021v6n7e5557",
+    "titulo": "O estágio supervisionado e a educação infantil Aspectos históricos e atuais sobre a formação docentee",
+    "ano": 2021,
+    "dataPublicacao": "2021-06-01",
+    "periodico": "Revista Práxis Pedagógica.",
+    "sourceId": "https://openalex.org/S4404675703",
+    "issn": "1518-9341",
+    "url": "https://doi.org/10.69568/2237-5406.2021v6n7e5557",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Michele Varotto Machado",
+      "Marsiel Pacífico",
+      "Gérson Bruno Forgiarini de Quadros"
+    ],
+    "docentes": [
+      {
+        "nome": "Michele Varotto Machado",
+        "orcid": "0009-0007-0114-8591",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education Pedagogy and Practices",
+      "Educational Practices and Policies"
+    ]
+  },
+  {
     "openalexId": "https://openalex.org/W3194831777",
     "doi": "10.46312/pem.v14i35.12757",
     "titulo": "O Facebook como Alternativa de Trabalho na Formação Continuada de Professores que Ensinam Matemática",
@@ -26856,7 +27088,7 @@
     "sourceId": "https://openalex.org/S4210230889",
     "issn": "2177-5060",
     "url": "https://doi.org/10.29378/plurais.2447-9373.2021.v6.n3.13242",
-    "citacoes": 7,
+    "citacoes": 8,
     "acessoAberto": "aberto",
     "autores": [
       "Marcello Ferreira",
@@ -29049,7 +29281,7 @@
     "sourceId": "https://openalex.org/S4210186873",
     "issn": "0104-5962",
     "url": "https://doi.org/10.29286/rep.v29ijan/dez.8023",
-    "citacoes": 6,
+    "citacoes": 7,
     "acessoAberto": "aberto",
     "autores": [
       "Eliana Alves Pereira Leite",
@@ -29217,7 +29449,7 @@
     "sourceId": "https://openalex.org/S4210219497",
     "issn": "2175-6600",
     "url": "https://doi.org/10.28998/2175-6600.2020v12n28p289-311",
-    "citacoes": 0,
+    "citacoes": 1,
     "acessoAberto": "aberto",
     "autores": [
       "Klinger Teodoro Ciríaco",
@@ -30275,16 +30507,16 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W3082888138",
-    "doi": "10.29181/2594-6463.2020.v4.n2.p199-213",
+    "openalexId": "https://openalex.org/W4237823950",
+    "doi": "10.29181/2594-6463-2020-v4-n2-p199-213",
     "titulo": "Futebol e política se misturam: na trincheira das lutas contra o autoritarismo",
     "ano": 2020,
     "dataPublicacao": "2020-08-31",
     "periodico": "MOTRICIDADES Revista da Sociedade de Pesquisa Qualitativa em Motricidade Humana",
     "sourceId": "https://openalex.org/S4210194316",
     "issn": "2594-6463",
-    "url": "https://doi.org/10.29181/2594-6463.2020.v4.n2.p199-213",
-    "citacoes": 2,
+    "url": "https://doi.org/10.29181/2594-6463-2020-v4-n2-p199-213",
+    "citacoes": 3,
     "acessoAberto": "aberto",
     "autores": [
       "Osmar Moreira de Souza"
@@ -30305,16 +30537,16 @@
     ]
   },
   {
-    "openalexId": "https://openalex.org/W4237823950",
-    "doi": "10.29181/2594-6463-2020-v4-n2-p199-213",
+    "openalexId": "https://openalex.org/W3082888138",
+    "doi": "10.29181/2594-6463.2020.v4.n2.p199-213",
     "titulo": "Futebol e política se misturam: na trincheira das lutas contra o autoritarismo",
     "ano": 2020,
     "dataPublicacao": "2020-08-31",
     "periodico": "MOTRICIDADES Revista da Sociedade de Pesquisa Qualitativa em Motricidade Humana",
     "sourceId": "https://openalex.org/S4210194316",
     "issn": "2594-6463",
-    "url": "https://doi.org/10.29181/2594-6463-2020-v4-n2-p199-213",
-    "citacoes": 3,
+    "url": "https://doi.org/10.29181/2594-6463.2020.v4.n2.p199-213",
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "Osmar Moreira de Souza"
@@ -32830,7 +33062,7 @@
     "sourceId": "https://openalex.org/S4210173757",
     "issn": "0103-1457",
     "url": "https://doi.org/10.18226/21784612.v25.e021028",
-    "citacoes": 1,
+    "citacoes": 2,
     "acessoAberto": "aberto",
     "autores": [
       "José Lotúmolo",
@@ -34808,7 +35040,7 @@
     "sourceId": "https://openalex.org/S4210172282",
     "issn": "1516-4896",
     "url": "https://doi.org/10.26512/lc.v24i0.19844",
-    "citacoes": 3,
+    "citacoes": 5,
     "acessoAberto": "aberto",
     "autores": [
       "Maurício Pietrocola",
@@ -36144,7 +36376,7 @@
     "sourceId": "https://openalex.org/S153307584",
     "issn": "0008-4174",
     "url": "https://doi.org/10.1177/0008417419833409",
-    "citacoes": 33,
+    "citacoes": 34,
     "acessoAberto": "aberto",
     "autores": [
       "Ana Paula Serrata Malfitano",
@@ -37822,6 +38054,37 @@
       "Education Pedagogy and Practices",
       "Literacy, Media, and Education",
       "Linguistics and Education Research"
+    ]
+  },
+  {
+    "openalexId": "https://openalex.org/W2976727656",
+    "doi": "10.35168/2175-2613.utp.pens_ed.2019.vol14.n36.pp149-164",
+    "titulo": "O Ciberespaço e Tabus na Relação Professor Aluno: Manifestações sobre a Soberba Intelectual Docente",
+    "ano": 2019,
+    "dataPublicacao": "2019-02-28",
+    "periodico": "CADERNOS DE PESQUISA PENSAMENTO EDUCACIONAL",
+    "sourceId": "https://openalex.org/S4210227930",
+    "issn": "1980-9700",
+    "url": "https://doi.org/10.35168/2175-2613.utp.pens_ed.2019.vol14.n36.pp149-164",
+    "citacoes": 0,
+    "acessoAberto": "aberto",
+    "autores": [
+      "Leonardo Ferreira Peixoto",
+      "Marsiel Pacífico",
+      "Michele Varotto Machado"
+    ],
+    "docentes": [
+      {
+        "nome": "Michele Varotto Machado",
+        "orcid": "0009-0007-0114-8591",
+        "linha": "ECS"
+      }
+    ],
+    "linhas": [
+      "ECS"
+    ],
+    "topicos": [
+      "Education and Digital Technologies"
     ]
   },
   {
@@ -41705,7 +41968,7 @@
     "sourceId": "https://openalex.org/S4210196848",
     "issn": "1678-166X",
     "url": "https://doi.org/10.21573/vol34n12018.82469",
-    "citacoes": 8,
+    "citacoes": 9,
     "acessoAberto": "aberto",
     "autores": [
       "Daniel Mill",
@@ -53721,7 +53984,7 @@
     "sourceId": "https://openalex.org/S63371229",
     "issn": "0101-3262",
     "url": "https://doi.org/10.1590/cc0101-32622015723761",
-    "citacoes": 28,
+    "citacoes": 29,
     "acessoAberto": "aberto",
     "autores": [
       "Elenice Maria Cammarosano Onofre"
@@ -53984,7 +54247,7 @@
     "sourceId": "https://openalex.org/S4210189390",
     "issn": "0104-4931",
     "url": "https://doi.org/10.4322/0104-4931.ctoao0518",
-    "citacoes": 16,
+    "citacoes": 18,
     "acessoAberto": "aberto",
     "autores": [
       "Gustavo Artur Monzeli",
@@ -60437,7 +60700,7 @@
     "sourceId": "https://openalex.org/S2737422535",
     "issn": "1678-765X",
     "url": "https://doi.org/10.20396/rdbci.v10i1.1896",
-    "citacoes": 148,
+    "citacoes": 149,
     "acessoAberto": "aberto",
     "autores": [
       "Luciana Pizzani",
@@ -66082,7 +66345,7 @@
     "sourceId": "https://openalex.org/S4210232660",
     "issn": "0100-5502",
     "url": "https://doi.org/10.1590/s0100-55022009000300014",
-    "citacoes": 74,
+    "citacoes": 75,
     "acessoAberto": "aberto",
     "autores": [
       "Romeu Gomes",

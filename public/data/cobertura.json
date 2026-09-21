@@ -35,7 +35,7 @@
     "nome": "Denise de Freitas",
     "orcid": "0000-0003-1575-3243",
     "openalex": "A5076989591",
-    "encontradosOpenAlex": 84,
+    "encontradosOpenAlex": 83,
     "validos": 25,
     "anterioresA1980": 0
   },
@@ -59,8 +59,8 @@
     "nome": "Maria do Carmo de Sousa",
     "orcid": "0000-0002-5523-757X",
     "openalex": "A5038046033",
-    "encontradosOpenAlex": 74,
-    "validos": 34,
+    "encontradosOpenAlex": 75,
+    "validos": 35,
     "anterioresA1980": 0
   },
   {
@@ -195,16 +195,16 @@
     "nome": "Braian Garrito Veloso",
     "orcid": "0000-0002-9459-5740",
     "openalex": "A5010469313",
-    "encontradosOpenAlex": 65,
-    "validos": 36,
+    "encontradosOpenAlex": 67,
+    "validos": 37,
     "anterioresA1980": 0
   },
   {
     "nome": "Daniel Ribeiro Silva Mill",
     "orcid": "0000-0002-8336-3645",
     "openalex": "A5057460551",
-    "encontradosOpenAlex": 173,
-    "validos": 75,
+    "encontradosOpenAlex": 174,
+    "validos": 76,
     "anterioresA1980": 0
   },
   {
@@ -235,16 +235,17 @@
     "nome": "Maria Iolanda Monteiro",
     "orcid": "0000-0002-4534-1437",
     "openalex": "A5024843922",
-    "encontradosOpenAlex": 72,
+    "encontradosOpenAlex": 73,
     "validos": 41,
     "anterioresA1980": 0
   },
   {
     "nome": "Michele Varotto Machado",
     "orcid": "0009-0007-0114-8591",
-    "openalex": null,
-    "encontradosOrcid": 1,
-    "validos": 0
+    "openalex": "A5064854359",
+    "encontradosOpenAlex": 4,
+    "validos": 4,
+    "anterioresA1980": 0
   },
   {
     "nome": "Nilson Fernandes Dinis",
@@ -434,8 +435,8 @@
     "nome": "Luís Antonio Groppo",
     "orcid": "0000-0002-0143-5167",
     "openalex": "A5003638197",
-    "encontradosOpenAlex": 117,
-    "validos": 72,
+    "encontradosOpenAlex": 118,
+    "validos": 73,
     "anterioresA1980": 1
   },
   {
@@ -586,8 +587,8 @@
     "nome": "Tatiane Cosentino Rodrigues",
     "orcid": "0000-0002-4402-2805",
     "openalex": "A5090687601",
-    "encontradosOpenAlex": 39,
-    "validos": 24,
+    "encontradosOpenAlex": 40,
+    "validos": 25,
     "anterioresA1980": 0
   }
 ]
