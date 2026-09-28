@@ -1,9 +1,9 @@
 {
-  "atualizadoEm": "2026-09-21T12:58:51.799Z",
+  "atualizadoEm": "2026-09-28T14:08:05.404Z",
   "totalDocentes": 74,
-  "totalArtigos": 2149,
-  "totalPeriodicos": 567,
-  "artigosCoautoria": 1843,
+  "totalArtigos": 2193,
+  "totalPeriodicos": 556,
+  "artigosCoautoria": 1881,
   "porAno": [
     {
       "ano": 1990,
@@ -11,7 +11,7 @@
     },
     {
       "ano": 1993,
-      "total": 2
+      "total": 1
     },
     {
       "ano": 1999,
@@ -23,7 +23,7 @@
     },
     {
       "ano": 2001,
-      "total": 7
+      "total": 6
     },
     {
       "ano": 2002,
@@ -35,7 +35,7 @@
     },
     {
       "ano": 2004,
-      "total": 6
+      "total": 5
     },
     {
       "ano": 2005,
@@ -51,43 +51,43 @@
     },
     {
       "ano": 2008,
-      "total": 36
+      "total": 35
     },
     {
       "ano": 2009,
-      "total": 32
+      "total": 35
     },
     {
       "ano": 2010,
-      "total": 45
+      "total": 46
     },
     {
       "ano": 2011,
-      "total": 49
+      "total": 48
     },
     {
       "ano": 2012,
-      "total": 75
+      "total": 76
     },
     {
       "ano": 2013,
-      "total": 78
+      "total": 81
     },
     {
       "ano": 2014,
-      "total": 79
+      "total": 82
     },
     {
       "ano": 2015,
-      "total": 94
+      "total": 98
     },
     {
       "ano": 2016,
-      "total": 120
+      "total": 124
     },
     {
       "ano": 2017,
-      "total": 139
+      "total": 146
     },
     {
       "ano": 2018,
@@ -95,46 +95,46 @@
     },
     {
       "ano": 2019,
-      "total": 162
-    },
-    {
-      "ano": 2020,
-      "total": 193
-    },
-    {
-      "ano": 2021,
       "total": 165
     },
     {
+      "ano": 2020,
+      "total": 195
+    },
+    {
+      "ano": 2021,
+      "total": 164
+    },
+    {
       "ano": 2022,
-      "total": 145
+      "total": 147
     },
     {
       "ano": 2023,
-      "total": 161
+      "total": 160
     },
     {
       "ano": 2024,
-      "total": 188
+      "total": 186
     },
     {
       "ano": 2025,
-      "total": 123
+      "total": 125
     },
     {
       "ano": 2026,
-      "total": 54
+      "total": 72
     }
   ],
   "porLinha": {
-    "HFSE": 445,
-    "FPOAE": 305,
-    "EPFH": 363,
-    "ECM": 206,
-    "EETPC": 298,
-    "PSPE": 136,
-    "RED": 117,
-    "ECS": 342
+    "HFSE": 447,
+    "FPOAE": 343,
+    "ECS": 352,
+    "EETPC": 288,
+    "EPFH": 371,
+    "ECM": 212,
+    "PSPE": 130,
+    "RED": 121
   },
   "perfisOpenAlex": 74,
   "avisos": []
