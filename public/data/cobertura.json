@@ -3,7 +3,7 @@
     "nome": "Ademir Donizeti Caldeira",
     "orcid": "0000-0003-0290-9851",
     "openalex": "A5011173057",
-    "encontradosOpenAlex": 54,
+    "encontradosOpenAlex": 56,
     "validos": 27,
     "anterioresA1980": 0
   },
@@ -11,16 +11,16 @@
     "nome": "Alice Helena Campos Pierson",
     "orcid": "0000-0002-5418-3418",
     "openalex": "A5064581287",
-    "encontradosOpenAlex": 26,
-    "validos": 8,
-    "anterioresA1980": 2
+    "encontradosOpenAlex": 24,
+    "validos": 9,
+    "anterioresA1980": 0
   },
   {
     "nome": "Carmen Lucia Brancaglion Passos",
     "orcid": "0000-0002-5501-3584",
     "openalex": "A5029003437",
-    "encontradosOpenAlex": 103,
-    "validos": 50,
+    "encontradosOpenAlex": 107,
+    "validos": 52,
     "anterioresA1980": 0
   },
   {
@@ -28,14 +28,14 @@
     "orcid": "0000-0002-7826-1011",
     "openalex": "A5027842180",
     "encontradosOpenAlex": 21,
-    "validos": 12,
+    "validos": 13,
     "anterioresA1980": 0
   },
   {
     "nome": "Denise de Freitas",
     "orcid": "0000-0003-1575-3243",
     "openalex": "A5076989591",
-    "encontradosOpenAlex": 83,
+    "encontradosOpenAlex": 80,
     "validos": 25,
     "anterioresA1980": 0
   },
@@ -43,7 +43,7 @@
     "nome": "Denise Silva Vilela",
     "orcid": "0000-0003-2973-1301",
     "openalex": "A5061911548",
-    "encontradosOpenAlex": 49,
+    "encontradosOpenAlex": 50,
     "validos": 20,
     "anterioresA1980": 0
   },
@@ -51,8 +51,8 @@
     "nome": "Ettore Paredes Antunes",
     "orcid": "0000-0002-4200-5980",
     "openalex": "A5085375951",
-    "encontradosOpenAlex": 42,
-    "validos": 26,
+    "encontradosOpenAlex": 45,
+    "validos": 27,
     "anterioresA1980": 0
   },
   {
@@ -60,7 +60,7 @@
     "orcid": "0000-0002-5523-757X",
     "openalex": "A5038046033",
     "encontradosOpenAlex": 78,
-    "validos": 37,
+    "validos": 36,
     "anterioresA1980": 0
   },
   {
@@ -76,15 +76,15 @@
     "orcid": "0000-0003-0429-7633",
     "openalex": "A5004993299",
     "encontradosOpenAlex": 22,
-    "validos": 10,
+    "validos": 11,
     "anterioresA1980": 0
   },
   {
     "nome": "Aline Sommerhalder",
     "orcid": "0000-0002-6024-0853",
     "openalex": "A5019134963",
-    "encontradosOpenAlex": 95,
-    "validos": 55,
+    "encontradosOpenAlex": 99,
+    "validos": 56,
     "anterioresA1980": 0
   },
   {
@@ -107,23 +107,23 @@
     "nome": "Fabiana Marini Braga",
     "orcid": "0000-0002-6892-2752",
     "openalex": "A5076798653",
-    "encontradosOpenAlex": 50,
-    "validos": 27,
+    "encontradosOpenAlex": 37,
+    "validos": 25,
     "anterioresA1980": 0
   },
   {
     "nome": "Fernando Donizete Alves",
     "orcid": "0000-0002-9354-7851",
     "openalex": "A5087142472",
-    "encontradosOpenAlex": 57,
-    "validos": 42,
+    "encontradosOpenAlex": 60,
+    "validos": 43,
     "anterioresA1980": 0
   },
   {
     "nome": "Fernando Stanzione Galizia",
     "orcid": "0000-0002-9597-0733",
     "openalex": "A5051419693",
-    "encontradosOpenAlex": 25,
+    "encontradosOpenAlex": 26,
     "validos": 8,
     "anterioresA1980": 0
   },
@@ -139,31 +139,31 @@
     "nome": "Lorenzo Manera",
     "orcid": "0000-0002-1354-0327",
     "openalex": "A5089226382",
-    "encontradosOpenAlex": 43,
-    "validos": 6,
+    "encontradosOpenAlex": 44,
+    "validos": 8,
     "anterioresA1980": 0
   },
   {
     "nome": "Luana Costa Almeida",
     "orcid": "0000-0003-0664-6796",
     "openalex": "A5021345183",
-    "encontradosOpenAlex": 71,
-    "validos": 50,
+    "encontradosOpenAlex": 66,
+    "validos": 49,
     "anterioresA1980": 0
   },
   {
     "nome": "Maria Aparecida Mello",
     "orcid": "0000-0003-2404-7957",
     "openalex": "A5081350467",
-    "encontradosOpenAlex": 37,
-    "validos": 22,
+    "encontradosOpenAlex": 33,
+    "validos": 17,
     "anterioresA1980": 0
   },
   {
     "nome": "Renata Maria Moschen Nascente",
     "orcid": "0000-0001-9395-3166",
     "openalex": "A5011405608",
-    "encontradosOpenAlex": 41,
+    "encontradosOpenAlex": 43,
     "validos": 26,
     "anterioresA1980": 0
   },
@@ -171,7 +171,7 @@
     "nome": "Roseli Rodrigues de Mello",
     "orcid": "0000-0002-1782-890X",
     "openalex": "A5001500371",
-    "encontradosOpenAlex": 72,
+    "encontradosOpenAlex": 74,
     "validos": 45,
     "anterioresA1980": 0
   },
@@ -187,16 +187,16 @@
     "nome": "Antonio Alvaro Soares Zuin",
     "orcid": "0000-0002-6850-2897",
     "openalex": "A5086031475",
-    "encontradosOpenAlex": 123,
-    "validos": 84,
+    "encontradosOpenAlex": 122,
+    "validos": 82,
     "anterioresA1980": 3
   },
   {
     "nome": "Braian Garrito Veloso",
     "orcid": "0000-0002-9459-5740",
     "openalex": "A5010469313",
-    "encontradosOpenAlex": 89,
-    "validos": 40,
+    "encontradosOpenAlex": 92,
+    "validos": 39,
     "anterioresA1980": 0
   },
   {
@@ -204,7 +204,7 @@
     "orcid": "0000-0002-8336-3645",
     "openalex": "A5057460551",
     "encontradosOpenAlex": 188,
-    "validos": 80,
+    "validos": 79,
     "anterioresA1980": 0
   },
   {
@@ -219,15 +219,15 @@
     "nome": "Luiz Roberto Gomes",
     "orcid": "0000-0002-8867-7897",
     "openalex": "A5022723243",
-    "encontradosOpenAlex": 71,
-    "validos": 47,
+    "encontradosOpenAlex": 72,
+    "validos": 48,
     "anterioresA1980": 1
   },
   {
     "nome": "Maria Cecilia Luiz",
     "orcid": "0000-0001-5140-2753",
     "openalex": "A5010218588",
-    "encontradosOpenAlex": 58,
+    "encontradosOpenAlex": 60,
     "validos": 23,
     "anterioresA1980": 0
   },
@@ -235,8 +235,8 @@
     "nome": "Maria Iolanda Monteiro",
     "orcid": "0000-0002-4534-1437",
     "openalex": "A5024843922",
-    "encontradosOpenAlex": 72,
-    "validos": 41,
+    "encontradosOpenAlex": 75,
+    "validos": 42,
     "anterioresA1980": 0
   },
   {
@@ -251,7 +251,7 @@
     "nome": "Nilson Fernandes Dinis",
     "orcid": "0000-0002-8596-1577",
     "openalex": "A5074841047",
-    "encontradosOpenAlex": 66,
+    "encontradosOpenAlex": 67,
     "validos": 42,
     "anterioresA1980": 0
   },
@@ -267,7 +267,7 @@
     "nome": "Débora Cristina Fonseca",
     "orcid": "0000-0001-8427-5973",
     "openalex": "A5086339271",
-    "encontradosOpenAlex": 82,
+    "encontradosOpenAlex": 80,
     "validos": 36,
     "anterioresA1980": 0
   },
@@ -283,8 +283,8 @@
     "nome": "Elenice Maria Cammarosano Onofre",
     "orcid": "0000-0002-3623-4728",
     "openalex": "A5036565774",
-    "encontradosOpenAlex": 72,
-    "validos": 45,
+    "encontradosOpenAlex": 78,
+    "validos": 48,
     "anterioresA1980": 3
   },
   {
@@ -292,7 +292,7 @@
     "orcid": "0000-0002-1254-4510",
     "openalex": "A5078489846",
     "encontradosOpenAlex": 50,
-    "validos": 35,
+    "validos": 37,
     "anterioresA1980": 0
   },
   {
@@ -307,32 +307,32 @@
     "nome": "Joelson Gonçalves de Carvalho",
     "orcid": "0000-0003-4894-1400",
     "openalex": "A5000406902",
-    "encontradosOpenAlex": 56,
-    "validos": 19,
+    "encontradosOpenAlex": 55,
+    "validos": 18,
     "anterioresA1980": 0
   },
   {
     "nome": "Jose Carlos Rothen",
     "orcid": "0000-0002-5360-1913",
     "openalex": "A5062649079",
-    "encontradosOpenAlex": 101,
-    "validos": 61,
+    "encontradosOpenAlex": 102,
+    "validos": 64,
     "anterioresA1980": 0
   },
   {
     "nome": "Luiz Bezerra Neto",
     "orcid": "0000-0002-6388-3467",
     "openalex": "A5022050513",
-    "encontradosOpenAlex": 84,
-    "validos": 63,
+    "encontradosOpenAlex": 72,
+    "validos": 54,
     "anterioresA1980": 0
   },
   {
     "nome": "Maria Cristina da Silveira Galan Fernandes",
     "orcid": "0000-0002-8415-9400",
     "openalex": "A5018628299",
-    "encontradosOpenAlex": 62,
-    "validos": 36,
+    "encontradosOpenAlex": 61,
+    "validos": 35,
     "anterioresA1980": 0
   },
   {
@@ -363,7 +363,7 @@
     "nome": "Aline Maria de Medeiros Rodrigues Reali",
     "orcid": "0000-0003-4915-8127",
     "openalex": "A5108232110",
-    "encontradosOpenAlex": 134,
+    "encontradosOpenAlex": 129,
     "validos": 76,
     "anterioresA1980": 0
   },
@@ -380,7 +380,7 @@
     "orcid": "0000-0002-1976-4604",
     "openalex": "A5014061160",
     "encontradosOpenAlex": 41,
-    "validos": 21,
+    "validos": 24,
     "anterioresA1980": 0
   },
   {
@@ -395,7 +395,7 @@
     "nome": "Klinger Teodoro Ciríaco",
     "orcid": "0000-0003-1694-851X",
     "openalex": "A5003035401",
-    "encontradosOpenAlex": 179,
+    "encontradosOpenAlex": 191,
     "validos": 141,
     "anterioresA1980": 0
   },
@@ -403,8 +403,8 @@
     "nome": "Márcia Regina Onofre",
     "orcid": "0000-0002-5467-185X",
     "openalex": "A5049169130",
-    "encontradosOpenAlex": 25,
-    "validos": 15,
+    "encontradosOpenAlex": 23,
+    "validos": 14,
     "anterioresA1980": 0
   },
   {
@@ -419,8 +419,8 @@
     "nome": "Carlos Roberto Massao Hayashi",
     "orcid": "0000-0003-1481-5545",
     "openalex": "A5003357910",
-    "encontradosOpenAlex": 86,
-    "validos": 53,
+    "encontradosOpenAlex": 89,
+    "validos": 54,
     "anterioresA1980": 0
   },
   {
@@ -436,22 +436,22 @@
     "orcid": "0000-0002-0143-5167",
     "openalex": "A5003638197",
     "encontradosOpenAlex": 120,
-    "validos": 74,
+    "validos": 76,
     "anterioresA1980": 1
   },
   {
     "nome": "Maria Cristina Piumbato Innocentini Hayashi",
     "orcid": "0000-0003-1250-3767",
     "openalex": "A5091625935",
-    "encontradosOpenAlex": 192,
-    "validos": 116,
+    "encontradosOpenAlex": 194,
+    "validos": 117,
     "anterioresA1980": 0
   },
   {
     "nome": "Marisa Bittar",
     "orcid": "0000-0002-3990-3210",
     "openalex": "A5044386406",
-    "encontradosOpenAlex": 70,
+    "encontradosOpenAlex": 75,
     "validos": 49,
     "anterioresA1980": 0
   },
@@ -467,7 +467,7 @@
     "nome": "Poliana Bruno Zuin",
     "orcid": "0000-0002-0435-440X",
     "openalex": "A5020470590",
-    "encontradosOpenAlex": 28,
+    "encontradosOpenAlex": 29,
     "validos": 13,
     "anterioresA1980": 0
   },
@@ -476,7 +476,7 @@
     "orcid": "0000-0001-9572-4586",
     "openalex": "A5019222652",
     "encontradosOpenAlex": 202,
-    "validos": 139,
+    "validos": 140,
     "anterioresA1980": 0
   },
   {
@@ -515,15 +515,15 @@
     "nome": "Luiz Gonçalves Junior",
     "orcid": "0000-0003-1585-0596",
     "openalex": "A5102851795",
-    "encontradosOpenAlex": 79,
-    "validos": 47,
+    "encontradosOpenAlex": 68,
+    "validos": 45,
     "anterioresA1980": 0
   },
   {
     "nome": "Natália Rejane Salim",
     "orcid": "0000-0001-7744-8274",
     "openalex": "A5057362487",
-    "encontradosOpenAlex": 63,
+    "encontradosOpenAlex": 62,
     "validos": 42,
     "anterioresA1980": 0
   },
@@ -556,23 +556,23 @@
     "orcid": "0000-0001-9406-3915",
     "openalex": "A5029382045",
     "encontradosOpenAlex": 35,
-    "validos": 23,
+    "validos": 24,
     "anterioresA1980": 0
   },
   {
     "nome": "Douglas Verrangia Correa da Silva",
     "orcid": "0000-0002-1943-4760",
     "openalex": "A5034315633",
-    "encontradosOpenAlex": 17,
-    "validos": 11,
+    "encontradosOpenAlex": 18,
+    "validos": 12,
     "anterioresA1980": 0
   },
   {
     "nome": "Maria Cristina dos Santos",
     "orcid": "0000-0003-3130-9433",
     "openalex": "A5102972834",
-    "encontradosOpenAlex": 34,
-    "validos": 21,
+    "encontradosOpenAlex": 37,
+    "validos": 22,
     "anterioresA1980": 0
   },
   {
